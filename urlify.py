@@ -9,7 +9,7 @@ def urlify(string, length):
             new_index -= 3
         else:
             # Move characters
-            string[new_index - 1] = string[i]
+            string[new_in ex - 1] = string[i]
             new_index -= 1
 
     return string
