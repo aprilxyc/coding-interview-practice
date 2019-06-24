@@ -14,3 +14,6 @@ def sortArrayByParity(A):
         if left_even <= right_odd:
             A[left_even], A[right_odd] = A[right_odd], A[left_even]
     return A
+
+    # practise https://www.youtube.com/watch?v=LsDeiI3yhG0 for
+    # more optimal solutions
