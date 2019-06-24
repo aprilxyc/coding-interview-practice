@@ -21,7 +21,7 @@ for bracket in brackets: # O(N)
 
 # improved solution with less space
 def removeOuterParenthesis(self, S):
-    brackets = []
+    brackets = ""
     left_pointer = 0
     right_pointer = 0
     j = 0
@@ -32,5 +32,5 @@ def removeOuterParenthesis(self, S):
             right_pointer += 1
         
     if left_pointer == right_pointer:
-        brackets.append(S[j+1 : i])
+        brackets += S[j+1 : i]
         j = i + 1
