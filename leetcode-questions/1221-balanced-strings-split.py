@@ -5,12 +5,10 @@ def balancedStringSplit(self, s: str) -> int:
     for i in s: # loop through the string of R's and L's
         if i == 'R':
             counter += 1 # increment if R
-            if counter == 0:
-                split_count += 1
-        elif i == 'L': # decrement if L
+        if i == 'L': # decrement if L
             counter -= 1
-            if counter == 0:
-                split_count += 1
+        if counter == 0:
+            split_count += 1
     return split_count
 
 
