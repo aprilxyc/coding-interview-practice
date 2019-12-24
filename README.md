@@ -5,12 +5,12 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 ** Note the [x] keeps track of whether I have revised them
 #### Easy:
 24/12
-[ ] 760
-[ ] 1266
-[ ] 1221
-[ ] 1119
-[ ] 1295
-[ ] 771
-[ ] 1290
+- [ ] 760
+- [ ] 1266 [https://leetcode.com/problems/minimum-time-visiting-all-points/discuss/436317/python-3-Easy-peasy-lemon-squeezy]
+- [ ] 1221
+- [ ] 1119
+- [ ] 1295
+- [ ] 771
+- [ ] 1290
 
 
