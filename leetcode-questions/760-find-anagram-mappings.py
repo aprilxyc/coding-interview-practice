@@ -15,6 +15,7 @@ class Solution:
         return output_list
 
 # optimised solution
+# REVISE THIS ONE
 B = [23, 5, 3, 6]
 matching_indexes = {}
 for i, j in enumerate(B):
