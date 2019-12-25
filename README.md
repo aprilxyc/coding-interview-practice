@@ -14,4 +14,6 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 - [ ] 1290
 - [ ] 938 [https://www.youtube.com/watch?v=FMFytleZRWA]
 
+25/12
+- [ ] 1252 [https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/discuss/456746/python3-simple-and-memory-saving-solution]
 
