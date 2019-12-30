@@ -17,3 +17,7 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 25/12
 - [ ] 1252 [https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/discuss/456746/python3-simple-and-memory-saving-solution]
 
+30/12
+- [ ] 1134 [https://leetcode.com/problems/armstrong-number/discuss/455073/Python-3-90] (
+(Good solution demonstrating use of list comprehensions)[https://leetcode.com/problems/armstrong-number/discuss/455393/Python3-One-liner-beats-98]
+
