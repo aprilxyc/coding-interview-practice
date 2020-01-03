@@ -22,3 +22,17 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 (Good solution demonstrating use of list comprehensions)[https://leetcode.com/problems/armstrong-number/discuss/455393/Python3-One-liner-beats-98]
 - [ ] 1213 Intersection of Two Arrays
 
+03/01
+- Think Like a Programmer (V. Anton Spraul) Recursion Problems
+
+### My Learnings:
+- use %10 to get the last digit
+- use //10 to get the whole number without hte last digit 
+- for the two above points, loop it until != 0
+- *=2 is same as <<=1
+- use list comprehension with joins
+- use multiple pinters
+- useful to use enumerate in Python
+- head recursion is where the recursive call comes BEFORE other processing in the function (recursive call happens before the other processing)
+- tail recursion is where the processing occurs BEFORE the recursive call - recursive call is the last step in the function (recursive call is postponed until the end)
+
