@@ -26,6 +26,8 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 - Think Like a Programmer (V. Anton Spraul) Recursion Problems
 - [ ] 1086
 - [ ] 1299
+- [ ] 344 (easy problem to learn to optimise)
+- [ ] 136 (study XOR bitwise operators and how it works)
 
 ### My Learnings:
 - use %10 to get the last digit
@@ -42,7 +44,8 @@ Reminding myself that I am not naturally great at this but all it takes is pract
         for i in dictionary.keys():
             print(i)
     - use .get() to get the value of the respective key you are getting
-- make use of being able to traverse Python backwards easily
+- make use of being able to traverse Python backwards easily e.g. (len(aList) - 1, -1, -1)
+- make use of XOR and reduce for linear time array questions (bitwise solution) [problem 136]
 
 #### Struggles with Recursion
 (This chapter really helped) [https://nostarch.com/download/samples/TLAP_ch6.pdf]
