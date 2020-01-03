@@ -24,6 +24,8 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 
 03/01
 - Think Like a Programmer (V. Anton Spraul) Recursion Problems
+- [ ] 1086
+- [ ] 1299
 
 ### My Learnings:
 - use %10 to get the last digit
@@ -35,6 +37,12 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 - useful to use enumerate in Python
 - head recursion is where the recursive call comes BEFORE other processing in the function (recursive call happens before the other processing)
 - tail recursion is where the processing occurs BEFORE the recursive call - recursive call is the last step in the function (recursive call is postponed until the end)
+- if you set("aabc"), you get {a, b, c} (useful in finding distinct characters) [https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/]
+- use the functions for dictionarys i.e. .keys() returns the keys in an object e.g. 
+        for i in dictionary.keys():
+            print(i)
+    - use .get() to get the value of the respective key you are getting
+- make use of being able to traverse Python backwards easily
 
 #### Struggles with Recursion
 (This chapter really helped) [https://nostarch.com/download/samples/TLAP_ch6.pdf]
