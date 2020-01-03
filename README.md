@@ -36,3 +36,6 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 - head recursion is where the recursive call comes BEFORE other processing in the function (recursive call happens before the other processing)
 - tail recursion is where the processing occurs BEFORE the recursive call - recursive call is the last step in the function (recursive call is postponed until the end)
 
+#### Struggles with Recursion
+(This chapter really helped) [https://nostarch.com/download/samples/TLAP_ch6.pdf]
+The first thing about recursion is DO NOT THINK about all the steps in recursion. This is the Big Recursive Idea!
