@@ -2,48 +2,51 @@
 Reminding myself that I am not naturally great at this but all it takes is practice, dedication and hard work. I made this repository to help me keep track of some of the questions / solutions I have done (mainly LeetCode).
 
 ### PROBLEMS COMPLETED:
-** Note the [x] keeps track of whether I have revised them
 #### Easy:
 24/12
-- [ ] 760
-- [ ] 1266 [https://leetcode.com/problems/minimum-time-visiting-all-points/discuss/436317/python-3-Easy-peasy-lemon-squeezy]
-- [ ] 1221
-- [ ] 1119
-- [ ] 1295
-- [ ] 771
-- [ ] 1290
-- [ ] 938 [https://www.youtube.com/watch?v=FMFytleZRWA]
+- [x] 760 Find Anagram Mappings
+- [x] 1266 Minimum Time Visiting All Points [Solution to study](https://leetcode.com/problems/minimum-time-visiting-all-points/discuss/436317/python-3-Easy-peasy-lemon-squeezy)
+- [x] 1221 Split a String in Balanced Strings
+- [x] 1119 Remove Vowels from a String
+- [x] 1295 Find Numbers with Even Numer of Digits
+- [x] 771 Jewels and Stones
+- [x] 1290 Convert Binary Number in a Linked List to Integer
+- [x] 938 Range Sum of BST [Youtube Video Explanation](https://www.youtube.com/watch?v=FMFytleZRWA)
 
 25/12
-- [ ] 1252 [https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/discuss/456746/python3-simple-and-memory-saving-solution]
+- [x] 1252 [https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/discuss/456746/python3-simple-and-memory-saving-solution]
 
 30/12
-- [ ] 1134 [https://leetcode.com/problems/armstrong-number/discuss/455073/Python-3-90] (
-(Good solution demonstrating use of list comprehensions)[https://leetcode.com/problems/armstrong-number/discuss/455393/Python3-One-liner-beats-98]
-- [ ] 1213 Intersection of Two Arrays
+- [x] 1134 Minimum Size Subarray Sum [Solution to study](https://leetcode.com/problems/armstrong-number/discuss/455073/Python-3-90) and
+[Good solution demonstrating use of list comprehensions](https://leetcode.com/problems/armstrong-number/discuss/455393/Python3-One-liner-beats-98)
+- [x] 1213 Intersection of Two Arrays
 
 03/01
 - Think Like a Programmer (V. Anton Spraul) Recursion Problems
-- [ ] 1086
-- [ ] 1299
-- [ ] 344 (easy problem to learn to optimise)
-- [ ] 136 (study XOR bitwise operators and how it works)
+- [x] 1086
+- [x] 1299
+- [x] 344 (easy problem to learn to optimise)
+- [x] 136 (study XOR bitwise operators and how it works)
 
 05/01
 - [x] 412 FizzBuzz
 - [x] 104 Max Depth of Binary Tree
 - [x] 206 Reverse Linked List
 - [x] 237 Delete Node in a Linked List
-- [x] 203 Move Zeroes [https://leetcode.com/problems/move-zeroes/discuss/391025/2-methods-for-python-simple-code]
+- [x] 203 Move Zeroes [Solution to Study](https://leetcode.com/problems/move-zeroes/discuss/391025/2-methods-for-python-simple-code)
 ^ Study this method too: https://leetcode.com/problems/move-zeroes/discuss/72012/Python-short-in-place-solution-with-comments.
-- [x] 169 Majority Element STUDY [https://leetcode.com/problems/majority-element/discuss/51712/Python-different-solutions-(dictionary-bit-manipulation-sorting-divide-and-conquer-brute-force-etc).]
-- [x] 242 Valid Anagram STUDY these solutions [https://leetcode.com/problems/valid-anagram/discuss/66499/Python-solutions-(sort-and-dictionary).]
-- [ ] 217 Contains Duplicate
+- [x] 169 Majority Element [Solution to Study](https://leetcode.com/problems/majority-element/discuss/51712/Python-different-solutions-(dictionary-bit-manipulation-sorting-divide-and-conquer-brute-force-etc)
+- [x] 242 Valid Anagram [Solution to Study](https://leetcode.com/problems/valid-anagram/discuss/66499/Python-solutions-(sort-and-dictionary).)
+- [x] 217 Contains Duplicate
+
+06/01
+- [ ] Convert Sorted Array to BST
+- [ ] Roman to Integer
 
 
 ### My Learnings:
-- use %10 to get the last digit
-- use //10 to get the whole number without hte last digit 
+- use % 10 to get the last digit
+- use // 10 to get the whole number without hte last digit 
 - for the two above points, loop it until != 0
 - *=2 is same as <<=1
 - use list comprehension with joins
