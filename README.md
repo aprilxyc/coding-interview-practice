@@ -33,10 +33,9 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 - [x] 104 Max Depth of Binary Tree
 - [x] 206 Reverse Linked List
 - [x] 237 Delete Node in a Linked List
-- [x] 203 Move Zeroes [Solution to Study](https://leetcode.com/problems/move-zeroes/discuss/391025/2-methods-for-python-simple-code)
-^ Study this method too: https://leetcode.com/problems/move-zeroes/discuss/72012/Python-short-in-place-solution-with-comments.
-- [x] 169 Majority Element [Solution to Study](https://leetcode.com/problems/majority-element/discuss/51712/Python-different-solutions-(dictionary-bit-manipulation-sorting-divide-and-conquer-brute-force-etc)
-- [x] 242 Valid Anagram [Solution to Study](https://leetcode.com/problems/valid-anagram/discuss/66499/Python-solutions-(sort-and-dictionary).)
+- [x] 203 Move Zeroes [Solution to Study](https://leetcode.com/problems/move-zeroes/discuss/391025/2-methods-for-python-simple-code) and study this method too: [Link](https://leetcode.com/problems/move-zeroes/discuss/72012/Python-short-in-place-solution-with-comments)
+- [x] 169 Majority Element [Solution to Study](https://leetcode.com/problems/majority-element/discuss/51712/Python-different-solutions-dictionary-bit-manipulation-sorting-divide-and-conquer-brute-force-etc)
+- [x] 242 Valid Anagram [Solution to Study](https://leetcode.com/problems/valid-anagram/discuss/66499/Python-solutions-(sort-and-dictionary))
 - [x] 217 Contains Duplicate
 
 06/01
@@ -72,5 +71,5 @@ i.e. a XOR b = b XOR a
 - remember to use the SET function for questions containing duplicates in an array or similar
 
 #### Struggles with Recursion
-(This chapter really helped) [https://nostarch.com/download/samples/TLAP_ch6.pdf]
-The first thing about recursion is DO NOT THINK about all the steps in recursion. This is the Big Recursive Idea!
+Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.
+The first thing about recursion is DO NOT THINK about all the steps in recursion. This is the Big Recursive Idea.
