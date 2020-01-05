@@ -30,8 +30,15 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 - [ ] 136 (study XOR bitwise operators and how it works)
 
 05/01
-- [ ] 412 FizzBuzz
-- [ ] 104
+- [x] 412 FizzBuzz
+- [x] 104 Max Depth of Binary Tree
+- [ ] 206 Reverse Linked List
+- [ ] 237 Delete Node in a Linked List
+- [ ] 203 Move Zeroes
+- [ ] 169 Majority Element
+- [ ] 242 Valid Anagram
+- [ ] 217 Contains Duplicate
+
 
 ### My Learnings:
 - use %10 to get the last digit
