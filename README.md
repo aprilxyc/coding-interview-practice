@@ -34,9 +34,10 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 - [x] 104 Max Depth of Binary Tree
 - [x] 206 Reverse Linked List
 - [x] 237 Delete Node in a Linked List
-- [x] 203 Move Zeroes
-- [ ] 169 Majority Element
-- [ ] 242 Valid Anagram
+- [x] 203 Move Zeroes [https://leetcode.com/problems/move-zeroes/discuss/391025/2-methods-for-python-simple-code]
+^ Study this method too: https://leetcode.com/problems/move-zeroes/discuss/72012/Python-short-in-place-solution-with-comments.
+- [x] 169 Majority Element STUDY [https://leetcode.com/problems/majority-element/discuss/51712/Python-different-solutions-(dictionary-bit-manipulation-sorting-divide-and-conquer-brute-force-etc).]
+- [x] 242 Valid Anagram STUDY these solutions [https://leetcode.com/problems/valid-anagram/discuss/66499/Python-solutions-(sort-and-dictionary).]
 - [ ] 217 Contains Duplicate
 
 
@@ -64,6 +65,8 @@ i.e. a XOR b = b XOR a
 - in a Linked List question, be careful of your loop constraint i.e. while current.next is not None or while current is not None [in reversing a list, we only need to know about the current]
 - when asked to delete an entry from a linked list without the head, you CANNOT delete it. You can only copy the values from the next part of the linked list into where it is now (overwrite it)
 - use a lag variable if you have two pointers and need to replace or move something
+- make use of the count function to find how many times something appears
+- remember to use the SET function for questions containing duplicates in an array or similar
 
 #### Struggles with Recursion
 (This chapter really helped) [https://nostarch.com/download/samples/TLAP_ch6.pdf]
