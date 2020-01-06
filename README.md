@@ -39,8 +39,9 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 - [x] 217 Contains Duplicate
 
 06/01
-- [ ] Convert Sorted Array to BST
+- [x] Convert Sorted Array to BST (Redo this everyday until I finally understand it)
 - [ ] Roman to Integer
+- [ ] Best Time to Buy and Sell Stock II 
 
 
 ### My Learnings:
@@ -69,6 +70,7 @@ i.e. a XOR b = b XOR a
 - use a lag variable if you have two pointers and need to replace or move something
 - make use of the count function to find how many times something appears
 - remember to use the SET function for questions containing duplicates in an array or similar
+- when you have 2 pointers, the base case will usually be when the left crossing the right (recall binary search)
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.
