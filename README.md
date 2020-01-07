@@ -45,9 +45,10 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 
 07/01
 - [x] 171 Excel Sheet Column Number (redo and study all the solutions)
+- [x] 387 First Unique Character in a String (yayyyy)
 
 08/01
-- [ ] 387 First Unique Character in a String
+
 
 
 
