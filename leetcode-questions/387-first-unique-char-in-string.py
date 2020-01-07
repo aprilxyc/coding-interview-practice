@@ -3,6 +3,8 @@ https://leetcode.com/problems/first-unique-character-in-a-string/
 Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1.
 """
 
+import collections
+
 # my solution below is slow with 200ms 
 # O(2N) time complexity where N is the number of elements in the string s
 # O(1) space
@@ -21,5 +23,15 @@ def firstUniqChar(self, s: str) -> int:
             return s.index(s[char])
     return -1
     
-# some better solutions to study here:
+# some better solutions to study here with list comprehensions:
 # https://leetcode.com/problems/first-unique-character-in-a-string/discuss/86351/Python-3-lines-beats-100-(~-60ms)-!
+
+# this is extremely clean but uses in-built functions:
+s = 'hello'
+# build the hash map using in-built function
+count = collections.Counter(s)
+
+for index, ch in enumerate(s):
+    if count[ch] == 1:
+        return index
+return -1
