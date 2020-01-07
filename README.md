@@ -40,8 +40,11 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 
 06/01
 - [x] Convert Sorted Array to BST (Redo this everyday until I finally understand it)
-- [ ] Roman to Integer
-- [ ] Best Time to Buy and Sell Stock II 
+- [x] Roman to Integer
+- [x] Best Time to Buy and Sell Stock II 
+
+07/01
+- [x] 171 Excel Sheet Column Number (redo and study all the solutions)
 
 
 ### My Learnings:
@@ -71,6 +74,7 @@ i.e. a XOR b = b XOR a
 - Make use of the count function to find how many times something appears
 - Remember to use the SET function for questions containing duplicates in an array or similar
 - When you have 2 pointers, the base case will usually be when the left crossing the right (recall binary search)
+- Use subtraction of ordinal values to find out how far away a character is from a character e.g. to find out how far away you are from A: ord(char) - ord('A) - 1 (instead of creating a dictionary)
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.
