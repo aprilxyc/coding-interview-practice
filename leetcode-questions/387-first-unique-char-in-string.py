@@ -35,3 +35,17 @@ for index, ch in enumerate(s):
     if count[ch] == 1:
         return index
 return -1
+
+# another good solution
+# https://leetcode.com/problems/first-unique-character-in-a-string/discuss/169270/Simple-Python
+class Solution:
+    def firstUniqChar(self, s):
+        d = {}
+        seen = set()
+        for idx, c in enumerate(s):
+            if c not in seen:
+                d[c] = idx
+                seen.add(c)
+            elif c in d:
+                del d[c]
+        return min(d.values()) if d else -1
