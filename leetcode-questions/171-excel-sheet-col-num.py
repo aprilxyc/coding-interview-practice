@@ -18,3 +18,11 @@ def titleToNumber(s):
     return result
 
 # doing it not in the reverse
+# make it so that the column starts at the end
+def titleToNumber(s):
+    result = 0
+    x = len(s) - 1
+    for char in s[::-1]:
+        result += (ord(char) - ord('A') + 1) * 26 ** x
+        x += 1
+    return result
