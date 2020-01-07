@@ -45,32 +45,32 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 
 
 ### My Learnings:
-- use % 10 to get the last digit
-- use // 10 to get the whole number without hte last digit 
-- for the two above points, loop it until != 0
-- *=2 is same as <<=1
-- use list comprehension with joins
-- use multiple pinters
-- useful to use enumerate in Python
-- head recursion is where the recursive call comes BEFORE other processing in the function (recursive call happens before the other processing)
-- tail recursion is where the processing occurs BEFORE the recursive call - recursive call is the last step in the function (recursive call is postponed until the end)
-- if you set("aabc"), you get {a, b, c} (useful in finding distinct characters) [https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/]
-- use the functions for dictionarys i.e. .keys() returns the keys in an object e.g. 
+- Use % 10 to get the last digit
+- Use // 10 to get the whole number without the last digit 
+- For the two above points, loop it until != 0 (this is the base case)
+- *=2 is same as <<=1 (revise this)
+- Use list comprehension with joins
+- Use multiple pinters
+- Useful to use enumerate function in Python
+- Head recursion is where the recursive call comes BEFORE other processing in the function (recursive call happens before the other processing)
+- Tail recursion is where the processing occurs BEFORE the recursive call - recursive call is the last step in the function (recursive call is postponed until the end)
+- If you set("aabc"), you get {a, b, c} (useful in finding distinct characters) [https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/]
+- Use the functions for dictionarys i.e. .keys() returns the keys in an object e.g. 
         for i in dictionary.keys():
             print(i)
-    - use .get() to get the value of the respective key you are getting
-- make use of being able to traverse Python backwards easily e.g. (len(aList) - 1, -1, -1)
-- make use of XOR and reduce for linear time array questions (bitwise solution) [problem 136]
+    - Use .get() to get the value of the respective key you are getting
+- Make use of being able to traverse Python backwards easily e.g. (len(aList) - 1, -1, -1)
+- Make use of XOR and reduce for linear time array questions (bitwise solution) [problem 136]
 - Remember you can use XOR (bitwise operators) and with the case of XOR, you can XOr in any order and it will be the same as long as you XOR all the elements.
 i.e. a XOR b = b XOR a
 (a XOR b) XOR c == a XOR (b XOR c) returns the same thing. Hence if you had [4, 1, 2, 1, 2], 1 XOR 1 will cancel out to 0, 2 XOR 2 will cancel out to 0 and 4 will be the only number left so we know that that is the number that is different. 
 - Be careful with Binary Trees: 1) they don't have to be balanced 2) You don't need a while loop to iterate through it if you already are already recursively going through the tree. For this particular question, I only need to check whether the root exists or not: [https://leetcode.com/problems/maximum-depth-of-binary-tree/]
-- in a Linked List question, be careful of your loop constraint i.e. while current.next is not None or while current is not None [in reversing a list, we only need to know about the current]
-- when asked to delete an entry from a linked list without the head, you CANNOT delete it. You can only copy the values from the next part of the linked list into where it is now (overwrite it)
-- use a lag variable if you have two pointers and need to replace or move something
-- make use of the count function to find how many times something appears
-- remember to use the SET function for questions containing duplicates in an array or similar
-- when you have 2 pointers, the base case will usually be when the left crossing the right (recall binary search)
+- In a Linked List question, be careful of your loop constraint i.e. while current.next is not None or while current is not None [in reversing a list, we only need to know about the current]
+- When asked to delete an entry from a linked list without the head, you CANNOT delete it. You can only copy the values from the next part of the linked list into where it is now (overwrite it)
+- Use a lag variable if you have two pointers and need to replace or move something
+- Make use of the count function to find how many times something appears
+- Remember to use the SET function for questions containing duplicates in an array or similar
+- When you have 2 pointers, the base case will usually be when the left crossing the right (recall binary search)
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.

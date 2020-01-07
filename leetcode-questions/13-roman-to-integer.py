@@ -17,6 +17,7 @@ def romanToInt(s):
 # using a dictionary and travelling backwards
 # this was very difficult to wrap my head around 
 def romanToInt2(s):
+    # this is a lot faser for some reason
     #O(N) time complexity where N is the number of elements in the string
     # O(N + M) space complexity where N is the number of roman numerals we have in the dictionarya nd M is the number of elements in the string i.e. s[::-1] creates a new copy
     roman = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
