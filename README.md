@@ -81,6 +81,8 @@ i.e. a XOR b = b XOR a
 - When you have 2 pointers, the base case will usually be when the left crossing the right (recall binary search)
 - Use subtraction of ordinal values to find out how far away a character is from a character e.g. to find out how far away you are from A: ord(char) - ord('A) - 1 (instead of creating a dictionary)
 - Useful to understand how to use Python Collections (import collections) - collections.Counter literally just builds the dictionary for you
+- Use del to delete something from a python dictionary e.g. d = {'a': 1, 'b': 2} --> del['a'] becomes d = {'b': 2}
+- Whenever you need to implement an operation without an operator - [BIT SHIFTING](https://www.youtube.com/watch?v=qq64FrA2UXQ) &, ^ and <<
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.
