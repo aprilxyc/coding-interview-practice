@@ -6,12 +6,12 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 24/12
 - [x] [x] 760 Find Anagram Mappings (redid 11/01 improved)
 - [x] [x] [ ] 1266 Minimum Time Visiting All Points [Solution to study](https://leetcode.com/problems/minimum-time-visiting-all-points/discuss/436317/python-3-Easy-peasy-lemon-squeezy) (redid 11/01 - no improvement)
-- [x] [ ] 1221 Split a String in Balanced Strings
-- [x] [ ] 1119 Remove Vowels from a String
-- [x] [ ] 1295 Find Numbers with Even Numer of Digits
-- [x] [ ] 71 Jewels and Stones
-- [x] [ ] 1290 Convert Binary Number in a Linked List to Integer
-- [x] [ ] 938 Range Sum of BST [Youtube Video Explanation](https://www.youtube.com/watch?v=FMFytleZRWA)
+- [x] [x] 1221 Split a String in Balanced Strings (redid 11/01 improved!!) (redo again)
+- [x] [x] 1119 Remove Vowels from a String (redid 11/01 and improved)
+- [x] [x] 1295 Find Nu  mbers with Even Number of Digits (redid 11/01 and improved)
+- [x] [x] 71 Jewels and Stones (redid 11/01 and improved)
+- [x] [x] 1290 Convert Binary Number in a Linked List to Integer (redid 11/01 and improved) (however, try bitwise next time)
+- [x] [x] 938 Range Sum of BST [Youtube Video Explanation](https://www.youtube.com/watch?v=FMFytleZRWA) (getting better ... but redo again)
 
 25/12
 - [x] [ ] 1252 [https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/discuss/456746/python3-simple-and-memory-saving-solution]
@@ -51,6 +51,9 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 - [x] [ ] 371 Sum of Two Integers (redo this and understand the Python error handling)
 - [ ] [ ] 21 Merge Two Sorted Lists
 
+11/01
+Redid all problems from 24/12
+
 
 
 ### My Learnings:
@@ -86,6 +89,10 @@ i.e. a XOR b = b XOR a
 - Whenever you need to implement an operation without an operator - [BIT SHIFTING](https://www.youtube.com/watch?v=qq64FrA2UXQ) &, ^ and <<
 - Generate all, print all, compute all means BACKTRACKING (https://www.youtube.com/watch?v=Zq4upTEaQyM0)
 - Make use of swapping e.g. x1, y1 = x2, y2 in questions that involve coordinates. Also with coordinate questions, if you want to maximise movement, you need to max(abs(x2 - x1), abs(y2 - y1))
+- If something says "BALANCE this" and you need two things to equal each other, you can just +1 if its L and -1 if its R (one variable plus and minus it instead of keeping track of two variables)
+(https://leetcode.com/problems/split-a-string-in-balanced-strings/discuss/403836/C%2B%2BJavaPython-Easy-Solution)
+- Much more effective to go through a list with conditions via list comprehensions!!!!
+- If it's not a balanced BST, chances are your base case won't be 'if root.left is None and root.right is None'. For unbalanced ones, you usually use 'if root.left' or 'if root.right'
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.

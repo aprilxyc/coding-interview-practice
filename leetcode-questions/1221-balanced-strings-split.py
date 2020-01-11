@@ -11,5 +11,22 @@ def balancedStringSplit(self, s: str) -> int:
             split_count += 1
     return split_count
 
+# way cleaner solution:
+class Solution:
+    def balancedStringSplit(self, s: str) -> int:
+        if s == "":
+            return 0
+        
+        res, count = 0, 0 # keeps track the max number of splitted balanced strings
+        for char in s:
+            if char == 'R':
+                count += 1
+            else:
+                count -= 1
+            # if count equal 0, it has balanced
+            if count == 0:
+                res += 1
+        return res
+                
 
         
