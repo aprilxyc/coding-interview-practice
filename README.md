@@ -55,9 +55,12 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 Redid all problems from 24/12
 Redid all problems from 25/12
 Redid all problems from 30/12
-- [ ] 1 Two Sum
+- [x] 1 Two Sum (remember how to optimise this)
 - [x] 125 Valid Palindrome (note that in this version, if there is a space or non-alphanumeric character, you simply ignore it)
-- [x] 21 Merge Two Sorted Lists
+- [x] 21 Merge Two Sorted Lists (redo this one) (try and write this recursively and study it) [https://leetcode.com/problems/merge-two-sorted-lists/discuss/472279/Python-Recursive-Solution]
+
+12/01
+- [ ] 1099 Two Sum Less Than K
 
 
 
