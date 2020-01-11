@@ -1,10 +1,10 @@
 # Algorithms & Data Structures (with Python)
-Reminding myself that I am not naturally great at this but all it takes is practice, dedication and hard work. I made this repository to help me keep track of some of the questions / solutions I have done (mainly LeetCode).
+Reminding myself that all it takes is practice, dedication and hard work. I put this off for too many years ☹️ Here I made this repository to help me keep track of some of the questions / solutions I have done on Leetcode.
 
 ### PROBLEMS COMPLETED:
 #### Easy:
 **24/12**
-- [x] [x] 760 Find Anagram Mappings (redid 11/01 improved)
+- :ballot_box_with_check: :ballot_box_with_check: 760 Find Anagram Mappings (redid 11/01 improved)
 - [x] [x] [ ] 1266 Minimum Time Visiting All Points [Solution to study](https://leetcode.com/problems/minimum-time-visiting-all-points/discuss/436317/python-3-Easy-peasy-lemon-squeezy) (redid 11/01 - no improvement)
 - [x] [x] 1221 Split a String in Balanced Strings (redid 11/01 improved!!) (redo again)
 - [x] [x] 1119 Remove Vowels from a String (redid 11/01 and improved)
@@ -65,8 +65,6 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 #### Medium:
 **12/01**
 - [ ] 15 3Sum (try this med)
-
-
 
 ### My Learnings:
 - Use % 10 to get the last digit
