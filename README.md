@@ -61,10 +61,17 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 
 **12/01**
 - :black_square_button: 1099 Two Sum Less Than K
+- :black_square_button: 350 Intersection of Two Arrays II
 
 #### Medium:
 **12/01**
 - :black_square_button: 15 3Sum (try this med)
+
+#### Things to do!
+- Determine if a string is an int or a double
+- Find the shortest palidrome in a string
+- Print all permutations of a string
+- Find the only element in an array that occurs once (did this multiple times but keep forgetting) (remember bitwise operators always undo each other if they match)
 
 ### My Learnings:
 - Use % 10 to get the last digit
