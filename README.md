@@ -3,7 +3,7 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 
 ### PROBLEMS COMPLETED:
 #### Easy:
-24/12
+**24/12**
 - [x] [x] 760 Find Anagram Mappings (redid 11/01 improved)
 - [x] [x] [ ] 1266 Minimum Time Visiting All Points [Solution to study](https://leetcode.com/problems/minimum-time-visiting-all-points/discuss/436317/python-3-Easy-peasy-lemon-squeezy) (redid 11/01 - no improvement)
 - [x] [x] 1221 Split a String in Balanced Strings (redid 11/01 improved!!) (redo again)
@@ -13,23 +13,23 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 - [x] [x] 1290 Convert Binary Number in a Linked List to Integer (redid 11/01 and improved) (however, try bitwise next time)
 - [x] [x] 938 Range Sum of BST [Youtube Video Explanation](https://www.youtube.com/watch?v=FMFytleZRWA) (getting better ... but redo again)
 
-25/12
+**25/12**
 - [x] [x] 1252 Cells With Odd Values in a Matrix [https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/discuss/456746/python3-simple-and-memory-saving-solution] (redid 11/01 - improved)
 (learn that solution ^ but came up with my own one too)
 
-30/12
+**30/12**
 - [x] [x] 1134 Armstrong Number [Solution to study](https://leetcode.com/problems/armstrong-number/discuss/455073/Python-3-90) and
 [Good solution demonstrating use of list comprehensions](https://leetcode.com/problems/armstrong-number/discuss/455393/Python3-One-liner-beats-98) (improved 11/01)
 - [x] [x] 1213 Intersection of Two Arrays (redid 11/01 - improved) [try this again with a PQ]
 
-03/01
+**03/01**
 - Think Like a Programmer (V. Anton Spraul) Recursion Problems
 - [x] [x] 1086 High Five (improved 11/01 but didn't used the optimal data structure)
 - [x] [ ] 1299 Replace Elements with Greatest Element on Right Side
-- [x] [ ] 344 (easy problem to learn to optimise)
-- [x] [ ] 136 (study XOR bitwise operators and how it works)
+- [x] [ ] 344 Reverse String (easy problem to learn to optimise)
+- [x] [ ] 136 Single Number (study XOR bitwise operators and how it works)
 
-05/01
+**05/01**
 - [x] [ ] 412 FizzBuzz
 - [x] [ ] 104 Max Depth of Binary Tree
 - [x] [ ] 206 Reverse Linked List
@@ -39,28 +39,31 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 - [x] [ ] 242 Valid Anagram [Solution to Study](https://leetcode.com/problems/valid-anagram/discuss/66499/Python-solutions-(sort-and-dictionary))
 - [x] [ ] 217 Contains Duplicate
 
-06/01
+**06/01**
 - [x] [ ] Convert Sorted Array to BST (Redo this everyday until I finally understand it)
 - [x] [ ] Roman to Integer
 - [x] [ ] Best Time to Buy and Sell Stock II 
 
-07/01
+**07/01**
 - [x] [ ] 171 Excel Sheet Column Number (redo and study all the solutions)
 - [x] [ ] 387 First Unique Character in a String (yayyyy)
 
-08/01
+**08/01**
 - [x] [ ] 371 Sum of Two Integers (redo this and understand the Python error handling)
 
-11/01
-Redid all problems from 24/12
-Redid all problems from 25/12
-Redid all problems from 30/12
+**11/01**
+- Redid all problems from 24/12
+- Redid all problems from 25/12
+- Redid all problems from 30/12
 - [x] 1 Two Sum (remember how to optimise this)
 - [x] 125 Valid Palindrome (note that in this version, if there is a space or non-alphanumeric character, you simply ignore it)
 - [x] 21 Merge Two Sorted Lists (redo this one) (try and write this recursively and study it) [https://leetcode.com/problems/merge-two-sorted-lists/discuss/472279/Python-Recursive-Solution]
 
-12/01
+**12/01**
 - [ ] 1099 Two Sum Less Than K
+
+#### Medium:
+**12/01**
 - [ ] 15 3Sum (try this med)
 
 
