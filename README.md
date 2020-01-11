@@ -102,6 +102,7 @@ i.e. a XOR b = b XOR a
 N is now zero (example q: https://leetcode.com/problems/armstrong-number/submissions/)
 - If you have a nested list i.e. [[1,91],[1,92],[2,93],[2,97],[1,60],[2,77],[1,65],[1,87],[1,100],[2,100],[2,76]], you can iterate through everything using 'for index, score in items'
 - Use dictionary.items() to get the items i.e. dict_items([(1, 'a'), (2, 'b'), (3, 'c')])
+- Remember we do not need pointers for linked lists! we just need to traverse it - don't ake that mistake again and think carefully about linked lists
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.
