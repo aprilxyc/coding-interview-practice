@@ -14,12 +14,13 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 - [x] [x] 938 Range Sum of BST [Youtube Video Explanation](https://www.youtube.com/watch?v=FMFytleZRWA) (getting better ... but redo again)
 
 25/12
-- [x] [ ] 1252 [https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/discuss/456746/python3-simple-and-memory-saving-solution]
+- [x] [x] 1252 Cells With Odd Values in a Matrix [https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/discuss/456746/python3-simple-and-memory-saving-solution] (redid 11/01 - improved)
+(learn that solution ^ but came up with my own one too)
 
 30/12
-- [x] [ ] 1134 Minimum Size Subarray Sum [Solution to study](https://leetcode.com/problems/armstrong-number/discuss/455073/Python-3-90) and
+- [x] [x] 1134 Armstrong Number [Solution to study](https://leetcode.com/problems/armstrong-number/discuss/455073/Python-3-90) and
 [Good solution demonstrating use of list comprehensions](https://leetcode.com/problems/armstrong-number/discuss/455393/Python3-One-liner-beats-98)
-- [x] [ ] 1213 Intersection of Two Arrays
+- [x] [x] 1213 Intersection of Two Arrays
 
 03/01
 - Think Like a Programmer (V. Anton Spraul) Recursion Problems
@@ -50,9 +51,12 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 08/01
 - [x] [ ] 371 Sum of Two Integers (redo this and understand the Python error handling)
 - [ ] [ ] 21 Merge Two Sorted Lists
+- [ ] 1 Two Sum
 
 11/01
 Redid all problems from 24/12
+Redid all problems from 25/12
+Redid all problems from 30/12
 
 
 
@@ -93,6 +97,8 @@ i.e. a XOR b = b XOR a
 (https://leetcode.com/problems/split-a-string-in-balanced-strings/discuss/403836/C%2B%2BJavaPython-Easy-Solution)
 - Much more effective to go through a list with conditions via list comprehensions!!!!
 - If it's not a balanced BST, chances are your base case won't be 'if root.left is None and root.right is None'. For unbalanced ones, you usually use 'if root.left' or 'if root.right'
+- When you are manipulating something, make sure you save an ORIGINAL COPY OF IT for later if you need it. E.g. when I always do N //=10 and then check whether it works but it doesn't because 
+N is now zero (example q: https://leetcode.com/problems/armstrong-number/submissions/)
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.

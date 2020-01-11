@@ -18,7 +18,7 @@ class Solution:
         
         if root.left and root.val > L: # optimisation note that if the current node is less than the left value, then there is no point looking at the left subtree because all those values are all going to be less than the left value
             # need to make sure current node is greater than the left value
-            bst_sum += self.rangeSumBST(root.left, L, R)
+            bst_sum += self.rangeSumBST(root.left, L, R) # we know this because the left nodes will never be greater tthan L now
         
         if root.right and root.val < R:
             bst_sum += self.rangeSumBST(root.right, L, R)

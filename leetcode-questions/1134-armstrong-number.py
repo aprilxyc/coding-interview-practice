@@ -27,3 +27,15 @@ class Solution:
     def isArmstrong(N):
         t = str(N)
         return sum(int(x) ** len(t) for x in t) == N
+
+# my latest solution 11/01
+class Solution:
+    def isArmstrong(self, N: int) -> bool:
+        original = N
+        power = len(str(N)) # 3
+        result = 0
+        while N != 0:# 153 
+            last_digit = N % 10 # last digit is 1
+            result += (last_digit ** power) # 153
+            N //= 10 # # 1
+        return result == original

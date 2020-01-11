@@ -32,4 +32,18 @@ class Solution:
 # can do this using python functions such as set and sorted:
 def arraysIntersection(self, arr1: List[int], arr2: List[int], arr3: List[int]) -> List[int]:
         return sorted(set(arr1) & set(arr2) & set(arr3))
-            
+
+# remember another method is you can also sort it and use pointers to find the common elements
+
+# my most recent solution (11/01) ^ improved so much from the above lol
+class Solution:
+    def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        common_table = {} # holds the items in the first list
+        result = [] # returns the final output
+        for i in nums1: # go through the first list
+            common_table[i] = 0 # put all its elements into the hash table
+        
+        for j in nums2:
+            if j in common_table:
+                result.append(j)
+        return set(result)
