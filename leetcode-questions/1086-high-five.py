@@ -44,3 +44,26 @@ class Solution:
         return sorted(result)
 
 # correct data structure to use for this to make it faster is a priority queue
+# using a priority queue limits it to 5 ids
+class Solution(object):
+    def highFive(self, items):
+        """
+        :type items: List[List[int]]
+        :rtype: List[List[int]]
+        """
+        
+        
+        dic = {}      
+        for idx,score in items:
+            if idx in dic:
+                h = dic[idx]
+                if len(h) < 5:
+                    heapq.heappush(h, score)
+                else:
+                    heapq.heappushpop(h, score)
+            else:
+                h = [score]
+                heapq.heapify(h)
+                dic[idx] = h
+                
+        return [[idx, sum(res)//len(res) ] for idx, res in dic.items()]
