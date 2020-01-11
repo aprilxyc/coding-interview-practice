@@ -4,51 +4,52 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 ### PROBLEMS COMPLETED:
 #### Easy:
 24/12
-- [x] 760 Find Anagram Mappings
-- [x] 1266 Minimum Time Visiting All Points [Solution to study](https://leetcode.com/problems/minimum-time-visiting-all-points/discuss/436317/python-3-Easy-peasy-lemon-squeezy)
-- [x] 1221 Split a String in Balanced Strings
-- [x] 1119 Remove Vowels from a String
-- [x] 1295 Find Numbers with Even Numer of Digits
-- [x] 771 Jewels and Stones
-- [x] 1290 Convert Binary Number in a Linked List to Integer
-- [x] 938 Range Sum of BST [Youtube Video Explanation](https://www.youtube.com/watch?v=FMFytleZRWA)
+- [x] [x] 760 Find Anagram Mappings (redid 11/01 improved)
+- [x] [x] [ ] 1266 Minimum Time Visiting All Points [Solution to study](https://leetcode.com/problems/minimum-time-visiting-all-points/discuss/436317/python-3-Easy-peasy-lemon-squeezy) (redid 11/01 - no improvement)
+- [x] [ ] 1221 Split a String in Balanced Strings
+- [x] [ ] 1119 Remove Vowels from a String
+- [x] [ ] 1295 Find Numbers with Even Numer of Digits
+- [x] [ ] 71 Jewels and Stones
+- [x] [ ] 1290 Convert Binary Number in a Linked List to Integer
+- [x] [ ] 938 Range Sum of BST [Youtube Video Explanation](https://www.youtube.com/watch?v=FMFytleZRWA)
 
 25/12
-- [x] 1252 [https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/discuss/456746/python3-simple-and-memory-saving-solution]
+- [x] [ ] 1252 [https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/discuss/456746/python3-simple-and-memory-saving-solution]
 
 30/12
-- [x] 1134 Minimum Size Subarray Sum [Solution to study](https://leetcode.com/problems/armstrong-number/discuss/455073/Python-3-90) and
+- [x] [ ] 1134 Minimum Size Subarray Sum [Solution to study](https://leetcode.com/problems/armstrong-number/discuss/455073/Python-3-90) and
 [Good solution demonstrating use of list comprehensions](https://leetcode.com/problems/armstrong-number/discuss/455393/Python3-One-liner-beats-98)
-- [x] 1213 Intersection of Two Arrays
+- [x] [ ] 1213 Intersection of Two Arrays
 
 03/01
 - Think Like a Programmer (V. Anton Spraul) Recursion Problems
-- [x] 1086
-- [x] 1299
-- [x] 344 (easy problem to learn to optimise)
-- [x] 136 (study XOR bitwise operators and how it works)
+- [x] [ ] 1086
+- [x] [ ] 1299
+- [x] [ ] 344 (easy problem to learn to optimise)
+- [x] [ ] 136 (study XOR bitwise operators and how it works)
 
 05/01
-- [x] 412 FizzBuzz
-- [x] 104 Max Depth of Binary Tree
-- [x] 206 Reverse Linked List
-- [x] 237 Delete Node in a Linked List
-- [x] 203 Move Zeroes [Solution to Study](https://leetcode.com/problems/move-zeroes/discuss/391025/2-methods-for-python-simple-code) and study this method too: [Link](https://leetcode.com/problems/move-zeroes/discuss/72012/Python-short-in-place-solution-with-comments)
-- [x] 169 Majority Element [Solution to Study](https://leetcode.com/problems/majority-element/discuss/51712/Python-different-solutions-dictionary-bit-manipulation-sorting-divide-and-conquer-brute-force-etc)
-- [x] 242 Valid Anagram [Solution to Study](https://leetcode.com/problems/valid-anagram/discuss/66499/Python-solutions-(sort-and-dictionary))
-- [x] 217 Contains Duplicate
+- [x] [ ] 412 FizzBuzz
+- [x] [ ] 104 Max Depth of Binary Tree
+- [x] [ ] 206 Reverse Linked List
+- [x] [ ] 237 Delete Node in a Linked List
+- [x] [ ] 203 Move Zeroes [Solution to Study](https://leetcode.com/problems/move-zeroes/discuss/391025/2-methods-for-python-simple-code) and study this method too: [Link](https://leetcode.com/problems/move-zeroes/discuss/72012/Python-short-in-place-solution-with-comments)
+- [x] [ ] 169 Majority Element [Solution to Study](https://leetcode.com/problems/majority-element/discuss/51712/Python-different-solutions-dictionary-bit-manipulation-sorting-divide-and-conquer-brute-force-etc)
+- [x] [ ] 242 Valid Anagram [Solution to Study](https://leetcode.com/problems/valid-anagram/discuss/66499/Python-solutions-(sort-and-dictionary))
+- [x] [ ] 217 Contains Duplicate
 
 06/01
-- [x] Convert Sorted Array to BST (Redo this everyday until I finally understand it)
-- [x] Roman to Integer
-- [x] Best Time to Buy and Sell Stock II 
+- [x] [ ] Convert Sorted Array to BST (Redo this everyday until I finally understand it)
+- [x] [ ] Roman to Integer
+- [x] [ ] Best Time to Buy and Sell Stock II 
 
 07/01
-- [x] 171 Excel Sheet Column Number (redo and study all the solutions)
-- [x] 387 First Unique Character in a String (yayyyy)
+- [x] [ ] 171 Excel Sheet Column Number (redo and study all the solutions)
+- [x] [ ] 387 First Unique Character in a String (yayyyy)
 
 08/01
-
+- [x] [ ] 371 Sum of Two Integers (redo this and understand the Python error handling)
+- [ ] [ ] 21 Merge Two Sorted Lists
 
 
 
@@ -83,6 +84,8 @@ i.e. a XOR b = b XOR a
 - Useful to understand how to use Python Collections (import collections) - collections.Counter literally just builds the dictionary for you
 - Use del to delete something from a python dictionary e.g. d = {'a': 1, 'b': 2} --> del['a'] becomes d = {'b': 2}
 - Whenever you need to implement an operation without an operator - [BIT SHIFTING](https://www.youtube.com/watch?v=qq64FrA2UXQ) &, ^ and <<
+- Generate all, print all, compute all means BACKTRACKING (https://www.youtube.com/watch?v=Zq4upTEaQyM0)
+- Make use of swapping e.g. x1, y1 = x2, y2 in questions that involve coordinates. Also with coordinate questions, if you want to maximise movement, you need to max(abs(x2 - x1), abs(y2 - y1))
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.
