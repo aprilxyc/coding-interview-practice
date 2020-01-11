@@ -61,6 +61,7 @@ Redid all problems from 30/12
 
 12/01
 - [ ] 1099 Two Sum Less Than K
+- [ ] 15 3Sum (try this med)
 
 
 
@@ -106,6 +107,7 @@ N is now zero (example q: https://leetcode.com/problems/armstrong-number/submiss
 - If you have a nested list i.e. [[1,91],[1,92],[2,93],[2,97],[1,60],[2,77],[1,65],[1,87],[1,100],[2,100],[2,76]], you can iterate through everything using 'for index, score in items'
 - Use dictionary.items() to get the items i.e. dict_items([(1, 'a'), (2, 'b'), (3, 'c')])
 - In linked lists, it is useful to make a dummy node so we can return this node at the end (points to the head of the list). Also use CUR to always point to the working head of the list (https://leetcode.com/problems/merge-two-sorted-lists/)
+- Using enumerate function is very useful when your dictionary indexing gets complicated (https://leetcode.com/problems/two-sum/discuss/17/Here-is-a-Python-solution-in-O(n)-time - see first comment)
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.
