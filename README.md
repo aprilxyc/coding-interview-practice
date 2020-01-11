@@ -20,7 +20,7 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 30/12
 - [x] [x] 1134 Armstrong Number [Solution to study](https://leetcode.com/problems/armstrong-number/discuss/455073/Python-3-90) and
 [Good solution demonstrating use of list comprehensions](https://leetcode.com/problems/armstrong-number/discuss/455393/Python3-One-liner-beats-98) (improved 11/01)
-- [x] [x] 1213 Intersection of Two Arrays (redid 11/01 - improved)
+- [x] [x] 1213 Intersection of Two Arrays (redid 11/01 - improved) [try this again with a PQ]
 
 03/01
 - Think Like a Programmer (V. Anton Spraul) Recursion Problems
@@ -50,14 +50,14 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 
 08/01
 - [x] [ ] 371 Sum of Two Integers (redo this and understand the Python error handling)
-- [ ] [ ] 21 Merge Two Sorted Lists
-- [ ] 1 Two Sum
-- [ ] 125 Valid Palindrome
 
 11/01
 Redid all problems from 24/12
 Redid all problems from 25/12
 Redid all problems from 30/12
+- [ ] 1 Two Sum
+- [x] 125 Valid Palindrome (note that in this version, if there is a space or non-alphanumeric character, you simply ignore it)
+- [x] 21 Merge Two Sorted Lists
 
 
 
@@ -100,6 +100,8 @@ i.e. a XOR b = b XOR a
 - If it's not a balanced BST, chances are your base case won't be 'if root.left is None and root.right is None'. For unbalanced ones, you usually use 'if root.left' or 'if root.right'
 - When you are manipulating something, make sure you save an ORIGINAL COPY OF IT for later if you need it. E.g. when I always do N //=10 and then check whether it works but it doesn't because 
 N is now zero (example q: https://leetcode.com/problems/armstrong-number/submissions/)
+- If you have a nested list i.e. [[1,91],[1,92],[2,93],[2,97],[1,60],[2,77],[1,65],[1,87],[1,100],[2,100],[2,76]], you can iterate through everything using 'for index, score in items'
+- Use dictionary.items() to get the items i.e. dict_items([(1, 'a'), (2, 'b'), (3, 'c')])
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.

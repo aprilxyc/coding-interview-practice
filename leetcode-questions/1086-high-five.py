@@ -45,6 +45,8 @@ class Solution:
 
 # correct data structure to use for this to make it faster is a priority queue
 # using a priority queue limits it to 5 ids
+# explanation of complexity:
+# https://leetcode.com/problems/high-five/discuss/350178/is-complexity-n-log-5
 class Solution(object):
     def highFive(self, items):
         """
@@ -67,3 +69,4 @@ class Solution(object):
                 dic[idx] = h
                 
         return [[idx, sum(res)//len(res) ] for idx, res in dic.items()]
+
