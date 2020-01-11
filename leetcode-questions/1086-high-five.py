@@ -23,3 +23,24 @@ class Solution:
             stud_list.sort()
             
         return [[i, stud_avg[i]] for i in stud_list]
+
+# my own solution 11/01 (improved but struggles with remember to use .keys() and .values() for dictionary - would've made life so much easier if I remembered
+    def highFive(self, items: List[List[int]]) -> List[List[int]]:
+        
+        stud_scores = {} #{1: [91], 92}
+        for i in items: 
+            if i[0] not in stud_scores: #[[1,91],[1,92],[2,93],[2,97],[1,60],[2,77],[1,65],[1,87],[1,100],[2,100],[2,76]]
+                stud_scores[i[0]] = [i[1]] # 
+            else:
+                stud_scores[i[0]].append(i[1])
+        
+        result = []
+        for i in stud_scores.keys():
+            individual_score = stud_scores[i]
+            individual_score.sort(reverse=True)
+            average = sum(individual_score[:5]) // 5
+            result.append([i, average])
+        
+        return sorted(result)
+
+# correct data structure to use for this to make it faster is a priority queue

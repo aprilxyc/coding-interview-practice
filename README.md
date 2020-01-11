@@ -19,13 +19,13 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 
 30/12
 - [x] [x] 1134 Armstrong Number [Solution to study](https://leetcode.com/problems/armstrong-number/discuss/455073/Python-3-90) and
-[Good solution demonstrating use of list comprehensions](https://leetcode.com/problems/armstrong-number/discuss/455393/Python3-One-liner-beats-98)
-- [x] [x] 1213 Intersection of Two Arrays
+[Good solution demonstrating use of list comprehensions](https://leetcode.com/problems/armstrong-number/discuss/455393/Python3-One-liner-beats-98) (improved 11/01)
+- [x] [x] 1213 Intersection of Two Arrays (redid 11/01 - improved)
 
 03/01
 - Think Like a Programmer (V. Anton Spraul) Recursion Problems
-- [x] [ ] 1086
-- [x] [ ] 1299
+- [x] [x] 1086 High Five (improved 11/01 but didn't used the optimal data structure)
+- [x] [ ] 1299 Replace Elements with Greatest Element on Right Side
 - [x] [ ] 344 (easy problem to learn to optimise)
 - [x] [ ] 136 (study XOR bitwise operators and how it works)
 
@@ -52,6 +52,7 @@ Reminding myself that I am not naturally great at this but all it takes is pract
 - [x] [ ] 371 Sum of Two Integers (redo this and understand the Python error handling)
 - [ ] [ ] 21 Merge Two Sorted Lists
 - [ ] 1 Two Sum
+- [ ] 125 Valid Palindrome
 
 11/01
 Redid all problems from 24/12
