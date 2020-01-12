@@ -65,22 +65,24 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 - Redid Two Sum
 - Redid 206 Reverse Linked List
 - [x] Two Sum II - Input Array is Sorted (redo this with binary search!)
-- [ ] 53 Maximum Subarray
 - [x] 20 Valid Parentheses
+
+**13/01** Linked Lists + Arrays
+- Redo Reversed Linked List
+- [ ] Linked List Cycle
+- [ ] Palindrome Linked List
+- [ ] 53 Maximum Subarray
+
+**14/01** Trees
 - [ ] Find N Unique Integers Sum Up to Zero
 - [ ] 543 Diameter of Binary Tree
 - [ ] 706 Design HashMap
 - [ ] 1304 Find N Unique Integers Sum Up to Zero
-- [ ] Linked List Cycle
-
 
 #### Medium:
 **12/01**
 - [ ] 15 3Sum (try this med)
 
-**13/01** Linked Lists
-
-**14/01** Trees
 
 #### Things to do
 - Radix Sort
