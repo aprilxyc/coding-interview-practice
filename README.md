@@ -32,7 +32,7 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 **05/01**
 - [x] [ ] 412 FizzBuzz
 - [x] [ ] 104 Max Depth of Binary Tree
-- [x] [ ] 206 Reverse Linked List
+- [x] [x] 206 Reverse Linked List (important - learned recursive implementation)
 - [x] [ ] 237 Delete Node in a Linked List
 - [x] [ ] 203 Move Zeroes [Solution to Study](https://leetcode.com/problems/move-zeroes/discuss/391025/2-methods-for-python-simple-code) and study this method too: [Link](https://leetcode.com/problems/move-zeroes/discuss/72012/Python-short-in-place-solution-with-comments)
 - [x] [ ] 169 Majority Element [Solution to Study](https://leetcode.com/problems/majority-element/discuss/51712/Python-different-solutions-dictionary-bit-manipulation-sorting-divide-and-conquer-brute-force-etc)
@@ -55,20 +55,32 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 - Redid all problems from 24/12
 - Redid all problems from 25/12
 - Redid all problems from 30/12
-- [x] [ ] 1 Two Sum (remember how to optimise this)
+- [x] [x] 1 Two Sum (remember how to optimise this) (redid 12/01)
 - [x] 125 Valid Palindrome (note that in this version, if there is a space or non-alphanumeric character, you simply ignore it)
 - [x] 21 Merge Two Sorted Lists (redo this one) (try and write this recursively and study it) [https://leetcode.com/problems/merge-two-sorted-lists/discuss/472279/Python-Recursive-Solution]
 
 **12/01**
-- [ ] 1099 Two Sum Less Than K
+- [x] 1099 Two Sum Less Than K
 - [x] 350 Intersection of Two Arrays II
 - Redid Two Sum
+- Redid 206 Reverse Linked List
 - [x] Two Sum II - Input Array is Sorted (redo this with binary search!)
-- [ ] Maximum Subarray
+- [ ] 53 Maximum Subarray
+- [x] 20 Valid Parentheses
+- [ ] Find N Unique Integers Sum Up to Zero
+- [ ] 543 Diameter of Binary Tree
+- [ ] 706 Design HashMap
+- [ ] 1304 Find N Unique Integers Sum Up to Zero
+- [ ] Linked List Cycle
+
 
 #### Medium:
 **12/01**
 - [ ] 15 3Sum (try this med)
+
+**13/01** Linked Lists
+
+**14/01** Trees
 
 #### Things to do
 - Radix Sort
@@ -152,6 +164,7 @@ for num in nums:
 
 print(count)
 ```
+- When reversing linked list, you want to null the value of your first node
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.
