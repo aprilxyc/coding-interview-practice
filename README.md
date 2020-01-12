@@ -63,6 +63,8 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 - [ ] 1099 Two Sum Less Than K
 - [x] 350 Intersection of Two Arrays II
 - Redid Two Sum
+- [x] Two Sum II - Input Array is Sorted (redo this with binary search!)
+- [ ] Maximum Subarray
 
 #### Medium:
 **12/01**
