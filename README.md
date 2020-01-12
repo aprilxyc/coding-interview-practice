@@ -4,74 +4,97 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 ### PROBLEMS COMPLETED:
 #### Easy:
 **24/12**
-- :ballot_box_with_check: :ballot_box_with_check: 760 Find Anagram Mappings (redid 11/01 improved)
-- :ballot_box_with_check: :ballot_box_with_check: :black_square_button: 1266 Minimum Time Visiting All Points [Solution to study](https://leetcode.com/problems/minimum-time-visiting-all-points/discuss/436317/python-3-Easy-peasy-lemon-squeezy) (redid 11/01 - no improvement)
-- :ballot_box_with_check: :ballot_box_with_check: 1221 Split a String in Balanced Strings (redid 11/01 improved!!) (redo again)
-- :ballot_box_with_check: :ballot_box_with_check: 1119 Remove Vowels from a String (redid 11/01 and improved)
-- :ballot_box_with_check: :ballot_box_with_check: 1295 Find Nu  mbers with Even Number of Digits (redid 11/01 and improved)
-- :ballot_box_with_check: :ballot_box_with_check: 71 Jewels and Stones (redid 11/01 and improved)
-- :ballot_box_with_check: :ballot_box_with_check: 1290 Convert Binary Number in a Linked List to Integer (redid 11/01 and improved) (however, try bitwise next time)
-- :ballot_box_with_check: :ballot_box_with_check: 938 Range Sum of BST [Youtube Video Explanation](https://www.youtube.com/watch?v=FMFytleZRWA) (getting better ... but redo again)
+- [x] [x] 760 Find Anagram Mappings (redid 11/01 improved)
+- [x] [x] [ ] 1266 Minimum Time Visiting All Points [Solution to study](https://leetcode.com/problems/minimum-time-visiting-all-points/discuss/436317/python-3-Easy-peasy-lemon-squeezy) (redid 11/01 - no improvement)
+- [x] [x] 1221 Split a String in Balanced Strings (redid 11/01 improved!!) (redo again)
+- [x] [x] 1119 Remove Vowels from a String (redid 11/01 and improved)
+- [x] [x] 1295 Find Nu  mbers with Even Number of Digits (redid 11/01 and improved)
+- [x] [x] 71 Jewels and Stones (redid 11/01 and improved)
+- [x] [x] 1290 Convert Binary Number in a Linked List to Integer (redid 11/01 and improved) (however, try bitwise next time)
+- [x] [x] 938 Range Sum of BST [Youtube Video Explanation](https://www.youtube.com/watch?v=FMFytleZRWA) (getting better ... but redo again)
 
 **25/12**
-- :ballot_box_with_check: :ballot_box_with_check: 1252 Cells With Odd Values in a Matrix [https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/discuss/456746/python3-simple-and-memory-saving-solution] (redid 11/01 - improved)
+- [x] [x] 1252 Cells With Odd Values in a Matrix [https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/discuss/456746/python3-simple-and-memory-saving-solution] (redid 11/01 - improved)
 (learn that solution ^ but came up with my own one too)
 
 **30/12**
-- :ballot_box_with_check: :ballot_box_with_check: 1134 Armstrong Number [Solution to study](https://leetcode.com/problems/armstrong-number/discuss/455073/Python-3-90) and
+- [x] [x] 1134 Armstrong Number [Solution to study](https://leetcode.com/problems/armstrong-number/discuss/455073/Python-3-90) and
 [Good solution demonstrating use of list comprehensions](https://leetcode.com/problems/armstrong-number/discuss/455393/Python3-One-liner-beats-98) (improved 11/01)
-- :ballot_box_with_check: :ballot_box_with_check: 1213 Intersection of Two Arrays (redid 11/01 - improved) [try this again with a PQ]
+- [x] [x] 1213 Intersection of Two Arrays (redid 11/01 - improved) [try this again with a PQ]
 
 **03/01**
 - Think Like a Programmer (V. Anton Spraul) Recursion Problems
-- :ballot_box_with_check: :ballot_box_with_check: 1086 High Five (improved 11/01 but didn't used the optimal data structure)
-- :ballot_box_with_check: :black_square_button: 1299 Replace Elements with Greatest Element on Right Side
-- :ballot_box_with_check: :black_square_button: 344 Reverse String (easy problem to learn to optimise)
-- :ballot_box_with_check: :black_square_button: 136 Single Number (study XOR bitwise operators and how it works)
+- [x] [x] 1086 High Five (improved 11/01 but didn't used the optimal data structure)
+- [x] [ ] 1299 Replace Elements with Greatest Element on Right Side
+- [x] [ ] 344 Reverse String (easy problem to learn to optimise)
+- [x] [ ] 136 Single Number (study XOR bitwise operators and how it works)
 
 **05/01**
-- :ballot_box_with_check: :black_square_button: 412 FizzBuzz
-- :ballot_box_with_check: :black_square_button: 104 Max Depth of Binary Tree
-- :ballot_box_with_check: :black_square_button: 206 Reverse Linked List
-- :ballot_box_with_check: :black_square_button: 237 Delete Node in a Linked List
-- :ballot_box_with_check: :black_square_button: 203 Move Zeroes [Solution to Study](https://leetcode.com/problems/move-zeroes/discuss/391025/2-methods-for-python-simple-code) and study this method too: [Link](https://leetcode.com/problems/move-zeroes/discuss/72012/Python-short-in-place-solution-with-comments)
-- :ballot_box_with_check: :black_square_button: 169 Majority Element [Solution to Study](https://leetcode.com/problems/majority-element/discuss/51712/Python-different-solutions-dictionary-bit-manipulation-sorting-divide-and-conquer-brute-force-etc)
-- :ballot_box_with_check: :black_square_button: 242 Valid Anagram [Solution to Study](https://leetcode.com/problems/valid-anagram/discuss/66499/Python-solutions-(sort-and-dictionary))
-- :ballot_box_with_check: :black_square_button: 217 Contains Duplicate
+- [x] [ ] 412 FizzBuzz
+- [x] [ ] 104 Max Depth of Binary Tree
+- [x] [ ] 206 Reverse Linked List
+- [x] [ ] 237 Delete Node in a Linked List
+- [x] [ ] 203 Move Zeroes [Solution to Study](https://leetcode.com/problems/move-zeroes/discuss/391025/2-methods-for-python-simple-code) and study this method too: [Link](https://leetcode.com/problems/move-zeroes/discuss/72012/Python-short-in-place-solution-with-comments)
+- [x] [ ] 169 Majority Element [Solution to Study](https://leetcode.com/problems/majority-element/discuss/51712/Python-different-solutions-dictionary-bit-manipulation-sorting-divide-and-conquer-brute-force-etc)
+- [x] [ ] 242 Valid Anagram [Solution to Study](https://leetcode.com/problems/valid-anagram/discuss/66499/Python-solutions-(sort-and-dictionary))
+- [x] [ ] 217 Contains Duplicate
 
 **06/01**
-- :ballot_box_with_check: :black_square_button: Convert Sorted Array to BST (Redo this everyday until I finally understand it)
-- :ballot_box_with_check: :black_square_button: Roman to Integer
-- :ballot_box_with_check: :black_square_button: Best Time to Buy and Sell Stock II 
+- [x] [ ] Convert Sorted Array to BST (Redo this everyday until I finally understand it)
+- [x] [ ] Roman to Integer
+- [x] [ ] Best Time to Buy and Sell Stock II 
 
 **07/01**
-- :ballot_box_with_check: :black_square_button: 171 Excel Sheet Column Number (redo and study all the solutions)
-- :ballot_box_with_check: :black_square_button: 387 First Unique Character in a String (yayyyy)
+- [x] [ ] 171 Excel Sheet Column Number (redo and study all the solutions)
+- [x] [ ] 387 First Unique Character in a String (yayyyy)
 
 **08/01**
-- :ballot_box_with_check: :black_square_button: 371 Sum of Two Integers (redo this and understand the Python error handling)
+- [x] [ ] 371 Sum of Two Integers (redo this and understand the Python error handling)
 
 **11/01**
 - Redid all problems from 24/12
 - Redid all problems from 25/12
 - Redid all problems from 30/12
-- :ballot_box_with_check: 1 Two Sum (remember how to optimise this)
-- :ballot_box_with_check: 125 Valid Palindrome (note that in this version, if there is a space or non-alphanumeric character, you simply ignore it)
-- :ballot_box_with_check: 21 Merge Two Sorted Lists (redo this one) (try and write this recursively and study it) [https://leetcode.com/problems/merge-two-sorted-lists/discuss/472279/Python-Recursive-Solution]
+- [x] [ ] 1 Two Sum (remember how to optimise this)
+- [x] 125 Valid Palindrome (note that in this version, if there is a space or non-alphanumeric character, you simply ignore it)
+- [x] 21 Merge Two Sorted Lists (redo this one) (try and write this recursively and study it) [https://leetcode.com/problems/merge-two-sorted-lists/discuss/472279/Python-Recursive-Solution]
 
 **12/01**
-- :black_square_button: 1099 Two Sum Less Than K
-- :black_square_button: 350 Intersection of Two Arrays II
+- [ ] 1099 Two Sum Less Than K
+- [x] 350 Intersection of Two Arrays II
+- Redid Two Sum
 
 #### Medium:
 **12/01**
-- :black_square_button: 15 3Sum (try this med)
+- [ ] 15 3Sum (try this med)
 
-#### Things to do!
+#### Things to do
+- Radix Sort
+- Counting Sort
+- Heap Sort
+- Topological sort
 - Determine if a string is an int or a double
 - Find the shortest palidrome in a string
 - Print all permutations of a string
 - Find the only element in an array that occurs once (did this multiple times but keep forgetting) (remember bitwise operators always undo each other if they match)
+- Permutations
+- Backtracking
+- Permutations and palindromes
+- Iterators in Python
+- Graphs
+
+
+Permutation
+#Sample questions
+You are given a 7 digit phone number, and you should find all possible letter combinations based on the digit-to-letter mapping on numeric pad and return only the ones that have valid match against a given dictionary of words.
+Give all possible letter combinations from a phone number.
+Generate all subsets of a string.
+Print all possible N pairs of balanced parentheses.
+E.g. when N is 2, the function should print (()) and ()().
+E.g. when N is 3, we should get ((())), (()()), (())(), ()(()), ()()().
+Source
+Given a list of arrays, return a list of arrays, where each array is a combination of one element in each given array.
+E.g. If the input is [[1, 2, 3], [4], [5, 6]], the output should be [[1, 4, 5], [1, 4, 6], [2, 4, 5], [2, 4, 6], [3, 4, 5], [3, 4, 6]].
 
 ### My Learnings:
 - Use % 10 to get the last digit
@@ -116,6 +139,17 @@ N is now zero (example q: https://leetcode.com/problems/armstrong-number/submiss
 - Use dictionary.items() to get the items i.e. dict_items([(1, 'a'), (2, 'b'), (3, 'c')])
 - In linked lists, it is useful to make a dummy node so we can return this node at the end (points to the head of the list). Also use CUR to always point to the working head of the list (https://leetcode.com/problems/merge-two-sorted-lists/)
 - Using enumerate function is very useful when your dictionary indexing gets complicated (https://leetcode.com/problems/two-sum/discuss/17/Here-is-a-Python-solution-in-O(n)-time - see first comment)
+- Be careful of intersection of two arrays (whether they want all occurrences of duplicates or not) - you can use pointers if you sort it!
+- get() method for dictionary is useful as if you do not normally, if it does not exist in the dictionary, it will error. However, get() will simply return the value. You can default this to a number e.g. get(value, 0) means if the value doesn't exist in the dictionary, it will simply return 0
+You can initialise the dictionary really easily this way
+```
+nums = [4, 9, 5, 6]
+count = {}
+for num in nums:
+    count[num] = count.get(num, 0) + 1
+
+print(count)
+```
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.
