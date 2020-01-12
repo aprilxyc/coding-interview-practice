@@ -167,6 +167,7 @@ for num in nums:
 print(count)
 ```
 - When reversing linked list, you want to null the value of your first node
+- Always do null pointer checks in linked lists. When detecting cycles, simply use two pointers and make use of the fact that they should never meet.
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.
