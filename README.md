@@ -69,15 +69,20 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 
 **13/01** Linked Lists + Arrays
 - Redo Reversed Linked List
-- [ ] Linked List Cycle
+- [x] Linked List Cycle (redo this one!)
 - [ ] Palindrome Linked List
 - [ ] 53 Maximum Subarray
 
 **14/01** Trees
-- [ ] Find N Unique Integers Sum Up to Zero
 - [ ] 543 Diameter of Binary Tree
 - [ ] 706 Design HashMap
 - [ ] 1304 Find N Unique Integers Sum Up to Zero
+- [ ] 1137 Nth Tribonacci Number
+
+**18/01**
+- [x] Find N Unique Integers Sum up to Zero
+- [x] 1002 Find Common Characters
+- [ ] 832 Flipping an Image
 
 #### Medium:
 **12/01**
@@ -167,7 +172,8 @@ for num in nums:
 print(count)
 ```
 - When reversing linked list, you want to null the value of your first node
-- Always do null pointer checks in linked lists. When detecting cycles, simply use two pointers and make use of the fact that they should never meet.
+- Always do null pointer checks in linked lists. When detecting cycles, simply use two pointers and make use of the fact that they should never meet
+- Reverse String II: Remember you can specify steps in a for loop
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.
