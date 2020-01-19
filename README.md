@@ -70,7 +70,6 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 **13/01** Linked Lists + Arrays
 - Redo Reversed Linked List
 - [x] Linked List Cycle (redo this one!)
-- [ ] Palindrome Linked List
 - [ ] 53 Maximum Subarray
 
 **14/01** Trees
@@ -92,6 +91,7 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 - [x] 234 Palindrome Linked List
 - Redid reverse linked list (learn the iterative version)
 - [x] 203 Remove Linked List Elements
+- [ ] 160 Intersection of Two Linked Lists
 
 #### Medium:
 **12/01**
