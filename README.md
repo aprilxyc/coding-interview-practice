@@ -89,6 +89,9 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 - [x] 557 Reverse Words in a String III
 - [x] 905 Sort Array by Parity
 - [x] 286 Missing Number
+- [x] 234 Palindrome Linked List
+- Redid reverse linked list (learn the iterative version)
+- [x] 203 Remove Linked List Elements
 
 #### Medium:
 **12/01**
@@ -183,6 +186,8 @@ print(count)
 - Use ^ to flip bits (XOR operator)
 -  You can get the right by getting len(row) - left i.e. (832 Flipping An Image)
 - Law to find sum of 1, 2, 3, 4, 5.. n -> n * (n-1) / 2
+- Linked lists often you have to deal with the even and the odd case
+- Finding a missing number in an array - USE XOR
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.
