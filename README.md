@@ -82,7 +82,10 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 **18/01**
 - [x] Find N Unique Integers Sum up to Zero
 - [x] 1002 Find Common Characters
-- [ ] 832 Flipping an Image
+- [x] 832 Flipping an Image
+
+**19/01**
+- [x] 448 Find All Numbers Disappears in an Array
 
 #### Medium:
 **12/01**
@@ -174,6 +177,8 @@ print(count)
 - When reversing linked list, you want to null the value of your first node
 - Always do null pointer checks in linked lists. When detecting cycles, simply use two pointers and make use of the fact that they should never meet
 - Reverse String II: Remember you can specify steps in a for loop
+- Use ^ to flip bits (XOR operator)
+-  You can get the right by getting len(row) - left i.e. (832 Flipping An Image)
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.
