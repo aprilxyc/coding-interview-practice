@@ -86,6 +86,9 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 
 **19/01**
 - [x] 448 Find All Numbers Disappears in an Array
+- [x] 557 Reverse Words in a String III
+- [x] 905 Sort Array by Parity
+- [x] 286 Missing Number
 
 #### Medium:
 **12/01**
@@ -179,6 +182,7 @@ print(count)
 - Reverse String II: Remember you can specify steps in a for loop
 - Use ^ to flip bits (XOR operator)
 -  You can get the right by getting len(row) - left i.e. (832 Flipping An Image)
+- Law to find sum of 1, 2, 3, 4, 5.. n -> n * (n-1) / 2
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.
