@@ -31,3 +31,19 @@ def replaceElements(aList):
     for i in range(len(arr) - 1, -1, -1):
         arr[i], max_num = max_num, max(arr[i], max_num)
     return arr
+
+#  my solution on 21/01
+class Solution:
+    def replaceElements(self, arr: List[int]) -> List[int]:
+        
+        if len(arr) == 1:
+            return [-1]
+        
+        max_val = arr[-1]
+        for i in range(len(arr) - 1, -1, -1):
+            original_num = arr[i]
+            arr[i] = max_val
+            if original_num > max_val:
+                max_val = original_num
+        arr[-1] = -1
+        return arr

@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e4be9ad-9024-4b60-8310-883e2e80be14" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/graph_class_tute_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jason_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/coding-interview-practise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/coding-interview-practise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ctci-one-away.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctci-one-away.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,88 +24,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="is-unique.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/is-unique.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ctci-one-away.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ctci-one-away.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jason_code.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jason_code.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="array-difference.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/array-difference.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="check-permutation-2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/check-permutation-2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="graph_class_tute_9.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/graph_class_tute_9.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="trie.py" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Documents/Documents/BCompSci/semester-1-2019/FIT2004/assignment_3_code/trie.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="73" column="25" lean-forward="true" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="insersect_two_arrays.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Documents/Documents/BCompSci/semester-1-2019/FIT2004/assignment_3_code/insersect_two_arrays.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="tester.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Documents/Documents/BCompSci/semester-1-2019/FIT2004/assignment_3_code/tester.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+            <state relative-caret-position="90">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ctci-palindrome-permutation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ctci-palindrome-permutation.py">
+      <file leaf-file-name="760-find-anagram-mappings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode-questions/760-find-anagram-mappings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <state relative-caret-position="300">
+              <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1299-replace-elements.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode-questions/1299-replace-elements.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -124,6 +65,7 @@
         <option value="$PROJECT_DIR$/graph_class_tute_9.py" />
         <option value="$USER_HOME$/Documents/Documents/BCompSci/semester-1-2019/FIT2004/assignment_3_code/insersect_two_arrays.py" />
         <option value="$USER_HOME$/Documents/Documents/BCompSci/semester-1-2019/FIT2004/assignment_3_code/trie.py" />
+        <option value="$PROJECT_DIR$/leetcode-questions/760-find-anagram-mappings.py" />
       </list>
     </option>
   </component>
@@ -137,10 +79,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="93" />
     <option name="y" value="22" />
-    <option name="width" value="859" />
-    <option name="height" value="1028" />
+    <option name="width" value="1920" />
+    <option name="height" value="1058" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -155,8 +96,23 @@
         <subPane>
           <expand>
             <path>
-              <item name="coding-interview-practise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coding-interview-practise" type="462c0819:PsiDirectoryNode" />
+              <item name="algs-and-data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algs-and-data-structures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algs-and-data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algs-and-data-structures" type="462c0819:PsiDirectoryNode" />
+              <item name="cracking-the-coding-interview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algs-and-data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algs-and-data-structures" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode-questions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algs-and-data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algs-and-data-structures" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -183,21 +139,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tester">
-    <configuration name="ctci-one-away" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.760-find-anagram-mappings">
+    <configuration name="760-find-anagram-mappings" type="PythonConfigurationType" factoryName="Python">
       <module name="coding-interview-practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/task3/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="SDK_HOME" value="/private/var/folders/jl/jgnwkzqs73z0dznlc8sbjfbw0000gp/T/improved_partitioning_quicksort.py/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode-questions" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ctci-one-away.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode-questions/760-find-anagram-mappings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,7 +236,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.ctci-one-away" />
+      <item itemvalue="Python.760-find-anagram-mappings" />
       <item itemvalue="Python.jason_code" />
       <item itemvalue="Python.tester" />
       <item itemvalue="Python.insersect_two_arrays" />
@@ -292,7 +248,6 @@
         <item itemvalue="Python.trie" />
         <item itemvalue="Python.insersect_two_arrays" />
         <item itemvalue="Python.jason_code" />
-        <item itemvalue="Python.ctci-one-away" />
       </list>
     </recent_temporary>
   </component>
@@ -309,18 +264,27 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="93" y="22" width="859" height="1028" extended-state="0" />
+    <frame x="0" y="22" width="1920" height="1058" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32984293" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.097484276" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.21428572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29339722" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -343,117 +307,45 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/is-unique.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ctci-one-away.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jason_code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array-difference.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ctci-palindrome-permutation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/check-permutation-2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/is-unique.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ctci-one-away.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ctci-palindrome-permutation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jason_code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/is-unique.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ctci-one-away.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/is-unique.py">
+    <entry file="file://$USER_HOME$/Documents/Documents/BCompSci/semester-1-2019/FIT2004/assignment_3_code/tester.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/is-unique.py">
+    <entry file="file://$PROJECT_DIR$/leetcode-questions/760-find-anagram-mappings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Documents/BCompSci/semester-1-2019/FIT2004/assignment_3_code/tester.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ctci-palindrome-permutation.py">
+    <entry file="file://$PROJECT_DIR$/leetcode-questions/760-find-anagram-mappings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        <state relative-caret-position="240">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/array-difference.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/check-permutation-2.py">
+    <entry file="file://$USER_HOME$/Documents/Documents/BCompSci/semester-1-2019/FIT2004/assignment_3_code/tester.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="390">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graph_class_tute_9.py">
+    <entry file="file://$USER_HOME$/Documents/Documents/BCompSci/semester-1-2019/FIT2004/assignment_3_code/trie.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+        <state relative-caret-position="1095">
+          <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -464,24 +356,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/is-unique.py">
+    <entry file="file://$USER_HOME$/Documents/Documents/BCompSci/semester-1-2019/FIT2004/assignment_3_code/tester.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="390">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ctci-one-away.py">
+    <entry file="file://$USER_HOME$/Documents/Documents/BCompSci/semester-1-2019/FIT2004/assignment_3_code/trie.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="1095">
+          <caret line="73" column="25" lean-forward="true" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jason_code.py">
+    <entry file="file://$USER_HOME$/Documents/Documents/BCompSci/semester-1-2019/FIT2004/assignment_3_code/insersect_two_arrays.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        <state>
+          <caret selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -492,10 +384,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/is-unique.py" />
+    <entry file="file://$PROJECT_DIR$/ctci-one-away.py" />
+    <entry file="file://$PROJECT_DIR$/jason_code.py" />
+    <entry file="file://$PROJECT_DIR$/array-difference.py" />
+    <entry file="file://$PROJECT_DIR$/ctci-palindrome-permutation.py" />
+    <entry file="file://$PROJECT_DIR$/check-permutation-2.py" />
+    <entry file="file://$PROJECT_DIR$/is-unique.py" />
+    <entry file="file://$PROJECT_DIR$/ctci-one-away.py" />
+    <entry file="file://$PROJECT_DIR$/ctci-palindrome-permutation.py" />
+    <entry file="file://$PROJECT_DIR$/jason_code.py" />
+    <entry file="file://$PROJECT_DIR$/is-unique.py" />
+    <entry file="file://$PROJECT_DIR$/ctci-one-away.py" />
+    <entry file="file://$PROJECT_DIR$/is-unique.py" />
+    <entry file="file://$PROJECT_DIR$/is-unique.py" />
+    <entry file="file://$PROJECT_DIR$/ctci-palindrome-permutation.py" />
+    <entry file="file://$PROJECT_DIR$/array-difference.py" />
+    <entry file="file://$PROJECT_DIR$/check-permutation-2.py" />
+    <entry file="file://$PROJECT_DIR$/graph_class_tute_9.py" />
+    <entry file="file://$PROJECT_DIR$/is-unique.py" />
+    <entry file="file://$PROJECT_DIR$/ctci-one-away.py" />
+    <entry file="file://$PROJECT_DIR$/jason_code.py" />
     <entry file="file://$USER_HOME$/Documents/Documents/BCompSci/semester-1-2019/FIT2004/assignment_3_code/trie.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
-          <caret line="73" column="25" lean-forward="true" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
+          <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Documents/BCompSci/semester-1-2019/FIT2004/assignment_3_code/insersect_two_arrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Documents/BCompSci/semester-1-2019/FIT2004/assignment_3_code/tester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-questions/760-find-anagram-mappings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-questions/1299-replace-elements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

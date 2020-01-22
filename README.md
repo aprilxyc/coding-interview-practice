@@ -25,7 +25,7 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 **03/01**
 - Think Like a Programmer (V. Anton Spraul) Recursion Problems
 - [x] [x] 1086 High Five (improved 11/01 but didn't used the optimal data structure)
-- [x] [ ] 1299 Replace Elements with Greatest Element on Right Side
+- [x] [x] 1299 Replace Elements with Greatest Element on Right Side
 - [x] [ ] 344 Reverse String (easy problem to learn to optimise)
 - [x] [ ] 136 Single Number (study XOR bitwise operators and how it works)
 
@@ -37,16 +37,16 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 - [x] [ ] 203 Move Zeroes [Solution to Study](https://leetcode.com/problems/move-zeroes/discuss/391025/2-methods-for-python-simple-code) and study this method too: [Link](https://leetcode.com/problems/move-zeroes/discuss/72012/Python-short-in-place-solution-with-comments)
 - [x] [ ] 169 Majority Element [Solution to Study](https://leetcode.com/problems/majority-element/discuss/51712/Python-different-solutions-dictionary-bit-manipulation-sorting-divide-and-conquer-brute-force-etc)
 - [x] [ ] 242 Valid Anagram [Solution to Study](https://leetcode.com/problems/valid-anagram/discuss/66499/Python-solutions-(sort-and-dictionary))
-- [x] [ ] 217 Contains Duplicate
+- [x] [x] 217 Contains Duplicate
 
 **06/01**
 - [x] [ ] Convert Sorted Array to BST (Redo this everyday until I finally understand it)
-- [x] [ ] Roman to Integer
+- [x] [x] Roman to Integer
 - [x] [ ] Best Time to Buy and Sell Stock II 
 
 **07/01**
 - [x] [ ] 171 Excel Sheet Column Number (redo and study all the solutions)
-- [x] [ ] 387 First Unique Character in a String (yayyyy)
+- [x] [x] 387 First Unique Character in a String (yayyyy)
 
 **08/01**
 - [x] [ ] 371 Sum of Two Integers (redo this and understand the Python error handling)
@@ -92,6 +92,16 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 - Redid reverse linked list (learn the iterative version)
 - [x] 203 Remove Linked List Elements
 - [ ] 160 Intersection of Two Linked Lists
+
+**21/01**
+- redid 1299 Replace Elements with Greatest Element on Right Side
+- redid 344 Reverse String
+- redid 217 Contains Duplicates
+- redid Roman to Integer
+- redid First Unique Char
+
+**22/01**
+- [ ] Remove Outermost Parenthesis 
 
 #### Medium:
 **12/01**
@@ -188,6 +198,7 @@ print(count)
 - Law to find sum of 1, 2, 3, 4, 5.. n -> n * (n-1) / 2
 - Linked lists often you have to deal with the even and the odd case
 - Finding a missing number in an array - USE XOR
+- If you have a problem involvig balanced parentheses, not only can you use a stack, you can also use a count and + or - it
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.
