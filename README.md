@@ -100,8 +100,10 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 - redid Roman to Integer
 - redid First Unique Char
 
-**22/01**
-- [ ] Remove Outermost Parenthesis 
+**22/01** stacks
+- [x] Remove Outermost Parenthesis 
+- [x] 1047 Remove Duplicates
+- [ ] 682 Baseball Game
 
 #### Medium:
 **12/01**
