@@ -100,10 +100,16 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 - redid Roman to Integer
 - redid First Unique Char
 
-**22/01** stacks
-- [x] Remove Outermost Parenthesis 
+**22/01** Stacks!
+- [x] [x] Remove Outermost Parenthesis 
 - [x] 1047 Remove Duplicates
-- [ ] 682 Baseball Game
+- [x] 682 Baseball Game (failed this)
+
+**27/01** 
+- Redid Remove Outermost Parenthesis
+- Redid 1047 Remove All Adjacent duplicates
+- [ ] 155 Min Stack (redo this one) 
+
 
 #### Medium:
 **12/01**
@@ -201,6 +207,8 @@ print(count)
 - Linked lists often you have to deal with the even and the odd case
 - Finding a missing number in an array - USE XOR
 - If you have a problem involvig balanced parentheses, not only can you use a stack, you can also use a count and + or - it
+- isDigit() does not work wiht negatives!
+- MinStack and MaxStack relies on caching. If you get many items that do not influence the cache, then you can get constant in terms of case. However, you are still bound by linear time. 
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.

@@ -32,3 +32,23 @@ def removeOuterParentheses(S):
         if c == '(':
             count += 1
     return result
+
+# redid 27/01
+class Solution:
+    def removeOuterParentheses(self, S: str) -> str:
+        string_basket = ""
+        stack = []
+        result = ""
+        
+        for i in S:
+            if i == '(':
+                stack.append('(')
+            else:
+                stack.pop()
+            string_basket += i
+            
+            if not stack:
+                result += string_basket[1:-1]
+                string_basket = ""
+        return result
+    

@@ -42,3 +42,28 @@ def removeDuplicates(self, S):
                 end += 1
                 a[end] = c
         return ''.join(a[: end + 1])
+
+# my solution 27/01
+class Solution:
+    def removeDuplicates(self, S: str) -> str: # abbaca
+        
+        if len(S) == 0:
+            return None
+        if len(S) == 1:
+            return S
+        
+        stack = []
+        
+        stack.append(S[0]) # stack = [ca]
+        
+        for i in range(1, len(S)): # going through . if b == a
+            if stack:
+                if S[i] == stack[-1]:
+                    stack.pop()
+                else:
+                    stack.append(S[i])
+            else:
+                stack.append(S[i])
+        # convert stack back to a string
+        return "".join(stack)
+        
