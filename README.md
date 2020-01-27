@@ -111,17 +111,37 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 - [x] 155 Min Stack (redo this one) 
 - [x] 844 Backspace String Compare (look at two pointer solution for this)
 - [x] 232 Implement a Queue using a Stack (https://www.youtube.com/watch?v=Wg8IiY1LbII)
-- [ ] 255 Implement a Stack using Queues
 
-**28/01** (probably do more string and array problems)
+**28/01** (probably do more string and array problems + binary search problems)
+- [ ] 255 Implement a Stack using Queues
+- [ ] 496 Next Greater Element
+- [ ] 852 Peak Index in a Mountain Array ?
+- [ ] 704 Binary Search (implementing binary search)
+- [ ] 69 Sqrt(x)
 
 **29/01** (start doing recursion and dynamic programming problems from Google)
+Below are all the dynamic programming questions marked easy
+- [ ] 1025 Divisor Game
+- [ ] 256 Paint House
+- [ ] 121 Best Time to Buy and Sell Stock
+- [ ] 746 Min Cost Climbing Stairs
+- [ ] 392 Is Subsequence
+- [ ] 70 Climbing Stairs
+- [ ] 53 Maximum Subarray
+- [ ] 198 House Robber
+- [ ] Range Sum Query - Immutable
+- [ ] 276 Paint Fence
 
-
+Good string questions to attempt:
+- [ ] 38 Count and Say
+- [ ] 415 Add Strings
+- [ ] 14 Longest Common Prefix
+- [ ] 788 Rotated Digits
 
 #### Medium:
 **12/01**
 - [ ] 15 3Sum (try this med)
+- [ ] 3 Longest Substring without Repeating Characters
 
 
 #### Things to do
