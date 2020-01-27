@@ -108,7 +108,15 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 **27/01** 
 - Redid Remove Outermost Parenthesis
 - Redid 1047 Remove All Adjacent duplicates
-- [ ] 155 Min Stack (redo this one) 
+- [x] 155 Min Stack (redo this one) 
+- [x] 844 Backspace String Compare (look at two pointer solution for this)
+- [x] 232 Implement a Queue using a Stack (https://www.youtube.com/watch?v=Wg8IiY1LbII)
+- [ ] 255 Implement a Stack using Queues
+
+**28/01** (probably do more string and array problems)
+
+**29/01** (start doing recursion and dynamic programming problems from Google)
+
 
 
 #### Medium:
@@ -209,6 +217,9 @@ print(count)
 - If you have a problem involvig balanced parentheses, not only can you use a stack, you can also use a count and + or - it
 - isDigit() does not work wiht negatives!
 - MinStack and MaxStack relies on caching. If you get many items that do not influence the cache, then you can get constant in terms of case. However, you are still bound by linear time. 
+- Remember you cannot change the number in a tuple!!
+- Anything with some kind of words and backspacing or removing letters / comparing them will probably involve a stack
+- Learn more about generators (and the yield keyword?)
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.
