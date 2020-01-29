@@ -112,22 +112,16 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 - [x] 844 Backspace String Compare (look at two pointer solution for this)
 - [x] 232 Implement a Queue using a Stack (https://www.youtube.com/watch?v=Wg8IiY1LbII)
 
-**28/01** (probably do more string and array problems + binary search problems)
-
-- [ ] 599 Minimum Index Sum of Two Lists
-- [ ] 255 Implement a Stack using Queues
-- [ ] 496 Next Greater Element
-- [ ] 852 Peak Index in a Mountain Array ?
-- [ ] 704 Binary Search (implementing binary search)
-- [ ] 69 Sqrt(x)
-
-**29/01** (start doing recursion and dynamic programming problems from Google)
+**29/01** (hash tables, strings and arrays)
 Below are all the dynamic programming questions marked easy
 - [x] 690 Employee Importance
 - [x] 389 Find the Difference
 - [x] 500 Keyboard Row
-- [x] Minimum Index Sum of Array 
+- [x] M599 inimum Index Sum of Two Lists?
 - [x] 1207 Unique Number of Occurrences
+- [x] 202 Happy Number (redo this one because common!)
+
+**30/01** (start doing recursion and dynamic programming problems from Google)
 - [ ] 1025 Divisor Game
 - [ ] 256 Paint House
 - [ ] 121 Best Time to Buy and Sell Stock
@@ -138,6 +132,13 @@ Below are all the dynamic programming questions marked easy
 - [ ] 198 House Robber
 - [ ] Range Sum Query - Immutable
 - [ ] 276 Paint Fence
+
+**31/01** (must try these ones)
+- [ ] 255 Implement a Stack using Queues
+- [ ] 496 Next Greater Element
+- [ ] 852 Peak Index in a Mountain Array ?
+- [ ] 704 Binary Search (implementing binary search)
+- [ ] 69 Sqrt(x)
 
 Good string questions to attempt:
 - [ ] 38 Count and Say
@@ -171,7 +172,7 @@ Good string questions to attempt:
 
 
 Permutation
-#Sample questions
+# Sample questions
 You are given a 7 digit phone number, and you should find all possible letter combinations based on the digit-to-letter mapping on numeric pad and return only the ones that have valid match against a given dictionary of words.
 Give all possible letter combinations from a phone number.
 Generate all subsets of a string.
@@ -260,27 +261,29 @@ print(count)
 ```
 
 Study this way of initialising dictionaries:
-    def findTheDifference(self, s: str, t: str) -> str:
-        
-        word_dict = {}
-        for letter in s:
-            word_dict[letter] = word_dict.get(letter, 0) + 1
-        
-        for letter in t:
-            if word_dict.get(letter, 0) == 0:
-                return letter
-            else:
-                word_dict[letter] -= 1
-        
-        
-        dic = {}
-        for ch in s:
-            dic[ch] = dic.get(ch, 0) + 1
-        for ch in t:
-            if dic.get(ch, 0) == 0:
-                return ch
-            else:
-                dic[ch] -= 1
+```
+def findTheDifference(self, s: str, t: str) -> str:
+    
+    word_dict = {}
+    for letter in s:
+        word_dict[letter] = word_dict.get(letter, 0) + 1
+    
+    for letter in t:
+        if word_dict.get(letter, 0) == 0:
+            return letter
+        else:
+            word_dict[letter] -= 1
+    
+    
+    dic = {}
+    for ch in s:
+        dic[ch] = dic.get(ch, 0) + 1
+    for ch in t:
+        if dic.get(ch, 0) == 0:
+            return ch
+        else:
+            dic[ch] -= 1
+```
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.
