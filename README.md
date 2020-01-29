@@ -113,6 +113,8 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 - [x] 232 Implement a Queue using a Stack (https://www.youtube.com/watch?v=Wg8IiY1LbII)
 
 **28/01** (probably do more string and array problems + binary search problems)
+
+- [ ] 599 Minimum Index Sum of Two Lists
 - [ ] 255 Implement a Stack using Queues
 - [ ] 496 Next Greater Element
 - [ ] 852 Peak Index in a Mountain Array ?
@@ -121,6 +123,11 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 
 **29/01** (start doing recursion and dynamic programming problems from Google)
 Below are all the dynamic programming questions marked easy
+- [x] 690 Employee Importance
+- [x] 389 Find the Difference
+- [x] 500 Keyboard Row
+- [x] Minimum Index Sum of Array 
+- [x] 1207 Unique Number of Occurrences
 - [ ] 1025 Divisor Game
 - [ ] 256 Paint House
 - [ ] 121 Best Time to Buy and Sell Stock
@@ -141,6 +148,9 @@ Good string questions to attempt:
 #### Medium:
 **12/01**
 - [ ] 15 3Sum (try this med)
+- [ ] Add Two Numbers
+- [ ] Longest Substring Without Repeating Character
+- [ ] Longest Palindromic Substring
 - [ ] 3 Longest Substring without Repeating Characters
 
 
@@ -240,6 +250,37 @@ print(count)
 - Remember you cannot change the number in a tuple!!
 - Anything with some kind of words and backspacing or removing letters / comparing them will probably involve a stack
 - Learn more about generators (and the yield keyword?)
+- set() returns a set class so you cannot just compare it to a list, you must use len() first
+- When initialising a dictionary and putting values in, remember this format: 
+    It is super useful:
+```
+         word_dict = {}
+        for letter in s:
+            word_dict[letter] = word_dict.get(letter, 0) + 1
+```
+
+Study this way of initialising dictionaries:
+    def findTheDifference(self, s: str, t: str) -> str:
+        
+        word_dict = {}
+        for letter in s:
+            word_dict[letter] = word_dict.get(letter, 0) + 1
+        
+        for letter in t:
+            if word_dict.get(letter, 0) == 0:
+                return letter
+            else:
+                word_dict[letter] -= 1
+        
+        
+        dic = {}
+        for ch in s:
+            dic[ch] = dic.get(ch, 0) + 1
+        for ch in t:
+            if dic.get(ch, 0) == 0:
+                return ch
+            else:
+                dic[ch] -= 1
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.
