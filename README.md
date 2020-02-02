@@ -26,8 +26,8 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 - Think Like a Programmer (V. Anton Spraul) Recursion Problems
 - [x] [x] 1086 High Five (improved 11/01 but didn't used the optimal data structure)
 - [x] [x] 1299 Replace Elements with Greatest Element on Right Side
-- [x] [ ] 344 Reverse String (easy problem to learn to optimise)
-- [x] [ ] 136 Single Number (study XOR bitwise operators and how it works)
+- [x] [x] 344 Reverse String (easy problem to learn to optimise)
+- [x] [x] 136 Single Number (study XOR bitwise operators and how it works)
 
 **05/01**
 - [x] [ ] 412 FizzBuzz
@@ -60,8 +60,8 @@ Reminding myself that all it takes is practice, dedication and hard work. I put 
 - [x] 21 Merge Two Sorted Lists (redo this one) (try and write this recursively and study it) [https://leetcode.com/problems/merge-two-sorted-lists/discuss/472279/Python-Recursive-Solution]
 
 **12/01**
-- [x] 1099 Two Sum Less Than K
-- [x] 350 Intersection of Two Arrays II
+- [x] [ ] 1099 Two Sum Less Than K
+- [x] [ ] 350 Intersection of Two Arrays II
 - Redid Two Sum
 - Redid 206 Reverse Linked List
 - [x] Two Sum II - Input Array is Sorted (redo this with binary search!)
@@ -117,9 +117,9 @@ Below are all the dynamic programming questions marked easy
 - [x] 690 Employee Importance
 - [x] 389 Find the Difference
 - [x] 500 Keyboard Row
-- [x] M599 inimum Index Sum of Two Lists?
+- [x] 99 Minimum Index Sum of Two Lists?
 - [x] 1207 Unique Number of Occurrences
-- [x] 202 Happy Number (redo this one because common!)
+- [x] [x] 202 Happy Number (redo this one because common!)
 
 **30/01** (start doing recursion and dynamic programming problems from Google)
 - [ ] 1025 Divisor Game
@@ -140,6 +140,30 @@ Below are all the dynamic programming questions marked easy
 - [ ] 704 Binary Search (implementing binary search)
 - [ ] 69 Sqrt(x)
 
+**01/02**
+- [x] Distribute Candies
+- Redid Happy Number
+- [x] 953 Verifying an Alien Dictionary
+- [x] 409 Longest Palindrome
+- [x] 299 Bulls and Cows
+
+**02/02**
+- Redid Single Number
+- Redid Reverse a String
+- Redid Move Zeroes
+- Redid Majority Element
+- Redid Valid Anagram
+- Redid Longest Palindrome
+- Redid Verifying an Alien Dictionary
+- [x] 204 Count Primes (try to understand this ?? )
+
+**03/03**
+- Redo Excel Column Sheet Number
+- Complete Trees and Graphs in CTCI
+
+- Redo Two Sum ** 
+- Redo First Unique Char ** 
+
 Good string questions to attempt:
 - [ ] 38 Count and Say
 - [ ] 415 Add Strings
@@ -149,10 +173,9 @@ Good string questions to attempt:
 #### Medium:
 **12/01**
 - [ ] 15 3Sum (try this med)
-- [ ] Add Two Numbers
-- [ ] Longest Substring Without Repeating Character
-- [ ] Longest Palindromic Substring
-- [ ] 3 Longest Substring without Repeating Characters
+- [ ] 2 Add Two Numbers
+- [ ] 3 Longest Substring Without Repeating Characters
+- [ ] 5 Longest Palindromic Substring
 
 
 #### Things to do
