@@ -159,7 +159,8 @@ Below are all the dynamic programming questions marked easy
 
 **03/03**
 - Redo Excel Column Sheet Number
-- Completed 4.2 (took a long time to understand)
+- Completed ctci 4.2 (took a long time to understand)
+- Attempted ctci 4.3 (https://www.youtube.com/watch?v=iFkCxbn-9gY)
 
 **04/03**
 
@@ -172,6 +173,17 @@ Good string questions to attempt:
 - [ ] 415 Add Strings
 - [ ] 14 Longest Common Prefix
 - [ ] 788 Rotated Digits
+
+Good hash table questions to attempt:
+- [ ] 463 Island Perimeter
+- [ ] 219 Contains Duplicate II
+- [ ] 3 Longest Substring Without Repeating Characters
+
+Good tree questions to attempt:
+- [ ] 94 Binary Tree Inorder Traversal
+- [ ] 101 Symmetric Tree
+- [ ] 111 Minimum Depth of Binary Tree
+- [ ] Lowest Common Ancestor Binary Tree
 
 #### Medium:
 **12/01**
