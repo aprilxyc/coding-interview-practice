@@ -159,10 +159,13 @@ Below are all the dynamic programming questions marked easy
 
 **03/03**
 - Redo Excel Column Sheet Number
-- Complete Trees and Graphs in CTCI
+- Completed 4.2 (took a long time to understand)
+
+**04/03**
 
 - Redo Two Sum ** 
 - Redo First Unique Char ** 
+- Do Contains Duplicate II
 
 Good string questions to attempt:
 - [ ] 38 Count and Say
