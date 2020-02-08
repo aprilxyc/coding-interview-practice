@@ -163,16 +163,40 @@ Below are all the dynamic programming questions marked easy
 - Attempted ctci 4.3 (https://www.youtube.com/watch?v=iFkCxbn-9gY)
 
 **04/03**
-
-- Redo Two Sum ** 
+- Redid Two Sum ** 
+- [x] 15 3Sum
 - Redo First Unique Char ** 
-- Do Contains Duplicate II
+- [ ] 219 Contains Duplicate II
+- [ ] 739 Daily Temperatures
+- [ ] 692 Top K Frequent Words
+- [ ] 17 Letter Combinations of a Phone Number
+
+**05/03**
+InterviewCake
+
+**08/02**
+InterviewCake Greedy Problems
+- [x] 153 Find Minimum in Rotated Sorted Array
+
 
 Good string questions to attempt:
 - [ ] 38 Count and Say
 - [ ] 415 Add Strings
 - [ ] 14 Longest Common Prefix
 - [ ] 788 Rotated Digits
+
+Med
+- [ ] 6 ZigZag Conversion
+- [ ] 3 Longest Substring Without Repeating Characters
+- [ ] Longest Palindromic String
+- [ ] Longest Common Prefix
+- [ ] 12 Integer to Roman
+- [ ] 22 Generate Parentheses
+- [ ] 38 Count and Say
+- [ ] Add Binary
+- [ ] Group Anagrams
+- [ ] 151 Reverse Words in a String
+
 
 Good hash table questions to attempt:
 - [ ] 463 Island Perimeter
@@ -187,7 +211,6 @@ Good tree questions to attempt:
 
 #### Medium:
 **12/01**
-- [ ] 15 3Sum (try this med)
 - [ ] 2 Add Two Numbers
 - [ ] 3 Longest Substring Without Repeating Characters
 - [ ] 5 Longest Palindromic Substring
@@ -326,3 +349,8 @@ def findTheDifference(self, s: str, t: str) -> str:
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.
 The first thing about recursion is DO NOT THINK about all the steps in recursion. This is the Big Recursive Idea.
+
+#### Annoying Mistakes
+- Remember to check that you are returning the index and not the actual number, vice versa
+- Remember to take care of edge cases where there is 1 or no elements
+- Remember to check the case where a certain requirement does not exist (e.g. a question about a sorted array - remmeber to take into account when the array is not sorted)
