@@ -36,5 +36,49 @@ def rangeSumBST(root, L, R):
     left = rangeSumBST(root.left, L, R)
     right = rangeSumBST(root.right, L, R)
     return bst_sum
+
+# using BFS to traverse al the nodes
+class Solution:
+    def rangeSumBST(self, root: TreeNode, L: int, R: int) -> int:
+        
+        if root == None:
+            return 0
+        
+        result = 0
+        
+        # using BFS
+        queue = []
+        queue.append(root)
+        while queue:
+            item = queue.pop(0) # remove the first item
+            if item.val >= L and item.val <= R:
+                result += item.val
+            if item.left:
+                queue.append(item.left)
+            if item.right:
+                queue.append(item.right)
+        return result
+
+# to make it even faster
+class Solution:
+    def rangeSumBST(self, root: TreeNode, L: int, R: int) -> int:
+        
+        if root == None:
+            return 0
+        
+        result = 0
+        
+        # using BFS
+        queue = []
+        queue.append(root)
+        while queue:
+            item = queue.pop(0) # remove the first item
+            if item.val >= L and item.val <= R:
+                result += item.val
+            if item.left and item.val > L: # automatiaclly ensures the current node is > L so we don't waste time looking at the left if it is < L
+                queue.append(item.left)
+            if item.right and item.val < R: # automatically ensures the current node is < R so we don't waste time looking at the right if it is > R
+                queue.append(item.right)
+        return result
         
         
