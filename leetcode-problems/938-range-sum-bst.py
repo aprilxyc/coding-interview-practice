@@ -24,5 +24,17 @@ class Solution:
             bst_sum += self.rangeSumBST(root.right, L, R)
         
         return bst_sum
+    
+def rangeSumBST(root, L, R):
+    bst_sum = 0
+
+    if root.val is None:
+        return 0
+    
+    if root.val >= L and root.val <= R:
+        bst_sum += root.val
+    left = rangeSumBST(root.left, L, R)
+    right = rangeSumBST(root.right, L, R)
+    return bst_sum
         
         
