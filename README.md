@@ -178,6 +178,15 @@ InterviewCake
 InterviewCake Greedy Problems
 - [x] 153 Find Minimum in Rotated Sorted Array
 
+**10/02**
+(redo these ones to see if I actually understood them)
+- [x] 463 Island Perimeter (redo this one)
+- [x] 111 Minimum Depth of Binary Tree
+- [x] 226 Invert Binary Tree
+- [x] 972 Leaf-Similar Trees
+(don't understand this one below?)
+- [ ] 589 N-ary Tree Preorder Traversal 
+
 
 Good string questions to attempt:
 - [ ] 38 Count and Say
