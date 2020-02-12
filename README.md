@@ -187,6 +187,10 @@ InterviewCake Greedy Problems
 (don't understand this one below?)
 - [ ] 589 N-ary Tree Preorder Traversal 
 
+**11/02**
+(still learning how to do graphs properly)
+- [ ] InterviewCake Graph Section
+
 
 Good string questions to attempt:
 - [ ] 38 Count and Say
