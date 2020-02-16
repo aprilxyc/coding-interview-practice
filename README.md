@@ -194,7 +194,7 @@ InterviewCake Greedy Problems
 **13/02 and 15/02**
 Haven't been keeping track since I've been doing InterviewCake but doing recursion and backtracking at the moment as of 16/02. 
 - [x] 46 Permutations
-- [x] 1180 Count Substrings with Only One Distinct Letter
+- [x] 1180 Count Substrings with Only One Distinct Letter (redo this)
 - [x] 576 Permutation in String (redo this and optimise)
 - Learned the sliding window! (https://www.youtube.com/watch?v=MK-NZ4hN7rs)
 
@@ -365,9 +365,24 @@ def findTheDifference(self, s: str, t: str) -> str:
         else:
             dic[ch] -= 1
 ```
+- To check if 2 dictionaries are the same, you can do s1.items() == s2.items()
 
 TREES
 - If you need to go through 2 trees, chances are a helper function may help in passing the trees through the arrays
+
+SLIDING WINDOW TIPS
+- Things we iterate over sequentially
+    - Contiguous sequence of elements
+    - Strings, arrays, linked list
+- When you need to calculate something --> minimum, maximum, shortest, contained
+
+Question variants:
+- fixed length e.g. max sum subarray of size k
+- dynamic variant e.g. smallest sum >= to some value S
+- dnymaic variant with auxilary data structure 
+
+#### Common Mistakes
+- When comparing i with i + 1, you can do it more simpler method of just saving prev and curr variable and updating it
 
 
 #### Struggles with Recursion
