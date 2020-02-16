@@ -194,6 +194,8 @@ InterviewCake Greedy Problems
 **13/02 and 15/02**
 Haven't been keeping track since I've been doing InterviewCake but doing recursion and backtracking at the moment as of 16/02. 
 - [x] 46 Permutations
+- [x] 1180 Count Substrings with Only One Distinct Letter
+- [ ] 576 Permutation in String
 
 
 Good string questions to attempt:
