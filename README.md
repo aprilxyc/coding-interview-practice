@@ -178,6 +178,9 @@ InterviewCake
 InterviewCake Greedy Problems
 - [x] 153 Find Minimum in Rotated Sorted Array
 
+Haven't been keeping track since I've been doing InterviewCake but doing recursion and backtracking at the moment as of 16/02. 
+- [x] 46 Permutations
+
 
 Good string questions to attempt:
 - [ ] 38 Count and Say
@@ -345,6 +348,10 @@ def findTheDifference(self, s: str, t: str) -> str:
         else:
             dic[ch] -= 1
 ```
+
+TREES
+- If you need to go through 2 trees, chances are a helper function may help in passing the trees through the arrays
+
 
 #### Struggles with Recursion
 Just want to say that this [chapter](https://nostarch.com/download/samples/TLAP_ch6.pdf) really helped.
