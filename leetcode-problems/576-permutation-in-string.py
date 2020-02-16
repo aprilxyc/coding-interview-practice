@@ -41,3 +41,28 @@ https://leetcode.com/problems/permutation-in-string/
             for i in range(len(perm) + 1):
                 result.append(perm[:i] + char + perm[i:])
         return result)
+
+# faster than 5% of submissions --> need to optimise
+class Solution:
+    def checkInclusion(self, s1: str, s2: str) -> bool:
+        
+        if not s1 or not s2:
+            return 0
+        
+        s1_map = {}
+        for i in s1:
+            s1_map[i] = s1_map.get(i, 0) + 1
+
+        s2_map = {}
+
+        s1_len = len(s1)
+        j = 0
+        i = 0
+        while j <= len(s2) - s1_len:
+            for i in range(j, j + s1_len):
+                s2_map[s2[i]] = s2_map.get(s2[i], 0) + 1
+            if s1_map.items() == s2_map.items():
+                return True
+            j += 1
+            s2_map = {}
+        return False
