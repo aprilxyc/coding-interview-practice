@@ -11,7 +11,7 @@ Your function can have loops—it just needs to also be recursive.
 def permutations(word):
     if len(word) <= 1:
         return [word]
-
+ƒ
     # get the permutations of N - 1
     perms = permutations(word[1:])
     # the first letter of the word before
