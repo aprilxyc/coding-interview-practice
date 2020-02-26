@@ -198,6 +198,9 @@ Haven't been keeping track since I've been doing InterviewCake but doing recursi
 - [x] 576 Permutation in String (redo this and optimise)
 - Learned the sliding window! (https://www.youtube.com/watch?v=MK-NZ4hN7rs)
 
+**27/02**
+- [ ] 39 Combination Sum (learn how to handle duplicates)
+
 
 Good string questions to attempt:
 - [ ] 38 Count and Say
