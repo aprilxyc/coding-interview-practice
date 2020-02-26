@@ -198,13 +198,22 @@ Haven't been keeping track since I've been doing InterviewCake but doing recursi
 - [x] 576 Permutation in String (redo this and optimise)
 - Learned the sliding window! (https://www.youtube.com/watch?v=MK-NZ4hN7rs)
 
-**27/02**
+**26/02**
 - [x] 39 Combination Sum (learn how to handle duplicates and redo this)
 
-**28/02**
+**27/02**
 Probably go start to DP and hash tables and trees
 Attempt all the EASY tree questions
 [ ] Combination Sum II (do the variations of combination sum!)
+[ ] Merge Two Binary Trees
+[ ] N-ary Tree Preorder Traversal
+[ ] N-ary Tree Postorder Traversal
+[ ] Univalued Binary Tree
+[ ] Leaf Similar Trees
+[ ] 100 Same Tree
+
+**28/02**
+Do stacks and queues and more DP!
 
 
 Good string questions to attempt:
