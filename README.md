@@ -199,7 +199,10 @@ Haven't been keeping track since I've been doing InterviewCake but doing recursi
 - Learned the sliding window! (https://www.youtube.com/watch?v=MK-NZ4hN7rs)
 
 **27/02**
-- [ ] 39 Combination Sum (learn how to handle duplicates)
+- [x] 39 Combination Sum (learn how to handle duplicates and redo this)
+
+**28/02**
+Probably go start to DP and hash tables and trees
 
 
 Good string questions to attempt:
