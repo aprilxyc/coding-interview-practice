@@ -238,6 +238,8 @@ Good tree questions to attempt:
 - [ ] 3 Longest Substring Without Repeating Characters
 - [ ] 5 Longest Palindromic Substring
 
+** If I have this, [[2, 3, 3], [2, 2, 2, 2], [3, 2, 3], [3, 5], [3, 3, 2], [5, 3]], know how to write a function that removes the duplicates and only gets lists that are unique
+
 
 #### Things to do
 - Radix Sort
@@ -386,6 +388,13 @@ Question variants:
 
 #### Common Mistakes
 - When comparing i with i + 1, you can do it more simpler method of just saving prev and curr variable and updating it
+- Can't use a list in sets!!!! Try to convert it to a tuple first using list comprehension! If you do this, you can then use a set. 
+Can probably do something similar to this if your input is a list of lists:
+        
+        b_set = (tuple(sorted(x)) for x in combos)
+        b_set = set(b_set)
+        b = [list(x) for x in b_set ]
+        return b
 
 
 #### Struggles with Recursion
