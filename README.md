@@ -203,6 +203,8 @@ Haven't been keeping track since I've been doing InterviewCake but doing recursi
 
 **28/02**
 Probably go start to DP and hash tables and trees
+Attempt all the EASY tree questions
+[ ] Combination Sum II (do the variations of combination sum!)
 
 
 Good string questions to attempt:
