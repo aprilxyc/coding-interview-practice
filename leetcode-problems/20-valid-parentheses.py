@@ -42,3 +42,26 @@ class Solution:
             else:
                 return False
         return stack == []
+
+# 28/02 wow redid this and managed to optimise and get it to be faster than 99%
+class Solution:
+    def isValid(self, s: str) -> bool:
+        bracket_dict = {'(': ')', '{': '}', '[': ']'}
+        stack = []
+        
+        for bracket in s:
+            if bracket in bracket_dict: # open bracket
+                stack.append(bracket)
+            else: # closed bracket
+                # check the stack
+                if not stack:
+                    return False
+                most_recent_bracket = stack[-1]
+                if bracket_dict[stack[-1]] == bracket: # if it matches
+                    stack.pop()
+                else:
+                    return False
+        
+        if len(stack) != 0:
+            return False
+        return True

@@ -100,3 +100,59 @@ class MinStack:
 # obj.pop()
 # param_3 = obj.top()
 # param_4 = obj.getMin()
+
+# I redid this again and managed to do this:
+class MinStack:
+
+    def __init__(self):
+        """
+        initialize your data structure here.
+        """
+        self.items = []
+        self.min_stack = []
+        
+
+    def push(self, x: int) -> None:
+        self.items.append(x)
+        if not self.min_stack: 
+            self.min_stack.append([x, 1])
+        else:
+            if x < self.min_stack[-1][0]:
+                self.min_stack.append([x, 1])
+            else:
+                self.min_stack[-1][1] += 1
+                
+    def pop(self) -> None:
+        if self.items:
+            popped_item = self.items.pop()
+            if self.min_stack[-1][1] == 1:
+                popped_min = self.min_stack.pop()
+            else:
+                self.min_stack[-1][1] -= 1
+            return popped_item
+        
+
+    def top(self) -> int:
+        return self.items[-1]
+        
+
+    def getMin(self) -> int:
+        return self.min_stack[-1][0]
+        
+
+
+# Your MinStack object will be instantiated and called as such:
+# obj = MinStack()
+# obj.push(x)
+# obj.pop()
+# param_3 = obj.top()
+# param_4 = obj.getMin()
+        
+
+
+# Your MinStack object will be instantiated and called as such:
+# obj = MinStack()
+# obj.push(x)
+# obj.pop()
+# param_3 = obj.top()
+# param_4 = obj.getMin()
