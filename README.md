@@ -207,7 +207,7 @@ Attempt all the EASY tree questions
 [ ] Combination Sum II (do the variations of combination sum!)
 [x] 155 Min Stack (redid this)
 [x] 20 Valid Parentheses (redid this)
-[ ] 498 Next Greater Element (still attempting this)
+[x] 498 Next Greater Element (still attempting this) [redo this and ty to do as many stack problems as I can]
 [ ] Merge Two Binary Trees
 [ ] N-ary Tree Preorder Traversal
 [ ] N-ary Tree Postorder Traversal
