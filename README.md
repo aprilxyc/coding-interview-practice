@@ -217,6 +217,7 @@ Attempt all the EASY tree questions
 
 **28/02**
 Do stacks and queues and more DP!
+[x] 706 Design HashMap (try redoing this with a linked list)
 
 
 Good string questions to attempt:
