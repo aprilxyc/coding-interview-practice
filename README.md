@@ -220,6 +220,7 @@ Do stacks and queues and more DP!
 [x] 706 Design HashMap (try redoing this with a linked list)
 [x] Daily Temperature
 [x] 40 Combination Sum II
+[x] 118 Pascal's Triangle
 
 
 Good string questions to attempt:
