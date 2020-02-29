@@ -226,6 +226,8 @@ Do stacks and queues and more DP!
 [ ] 347 Top K Frequent Elements
 [ ] 49 Group Anagrams
 [ ] 216 Combination Sum III
+[ ] 609 Find Duplicate File in System
+[ ] 341 Flattened Nested List Iterator
 
 
 Good string questions to attempt:
