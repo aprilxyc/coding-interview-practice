@@ -222,6 +222,11 @@ Do stacks and queues and more DP!
 [x] 40 Combination Sum II
 [x] 118 Pascal's Triangle
 
+**01/03**
+[ ] 347 Top K Frequent Elements
+[ ] 49 Group Anagrams
+[ ] 216 Combination Sum III
+
 
 Good string questions to attempt:
 - [ ] 38 Count and Say
