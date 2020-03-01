@@ -223,11 +223,15 @@ Do stacks and queues and more DP!
 [x] 118 Pascal's Triangle
 
 **01/03**
-[ ] 347 Top K Frequent Elements
-[ ] 49 Group Anagrams
+[x] 921 Minimum Add to Make Parentheses Valid
+[x] 347 Top K Frequent Elements (redo this)
+[x] 49 Group Anagrams (redo this)
 [ ] 216 Combination Sum III
 [ ] 609 Find Duplicate File in System
 [ ] 341 Flattened Nested List Iterator
+[ ] 53 Maximum Subarray
+[ ] 1120 Maximum Average Subtree
+[ ] 547 Friend Circles
 
 
 Good string questions to attempt:
