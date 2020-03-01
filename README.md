@@ -225,7 +225,7 @@ Do stacks!
 [x] 921 Minimum Add to Make Parentheses Valid
 [x] 347 Top K Frequent Elements (redo this)
 [x] 49 Group Anagrams (redo this)
-[ ] 36 Valid Sudoku (trying to do this?)
+[ ] 36 Valid Sudoku (redo this - not working!)
 
 **02/03**
 Do some queues, graphs amd try starting dp
