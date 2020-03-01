@@ -208,7 +208,6 @@ Attempt all the EASY tree questions
 [x] 155 Min Stack (redid this)
 [x] 20 Valid Parentheses (redid this)
 [x] 498 Next Greater Element (still attempting this) [redo this and ty to do as many stack problems as I can]
-[ ] Merge Two Binary Trees
 [ ] N-ary Tree Preorder Traversal
 [ ] N-ary Tree Postorder Traversal
 [ ] Univalued Binary Tree
@@ -216,7 +215,7 @@ Attempt all the EASY tree questions
 [ ] 100 Same Tree
 
 **28/02**
-Do stacks and queues and more DP!
+Do stacks!
 [x] 706 Design HashMap (try redoing this with a linked list)
 [x] Daily Temperature
 [x] 40 Combination Sum II
@@ -226,12 +225,18 @@ Do stacks and queues and more DP!
 [x] 921 Minimum Add to Make Parentheses Valid
 [x] 347 Top K Frequent Elements (redo this)
 [x] 49 Group Anagrams (redo this)
+[ ] 36 Valid Sudoku (trying to do this?)
+
+**02/03**
+Do some queues, graphs amd try starting dp
 [ ] 216 Combination Sum III
 [ ] 609 Find Duplicate File in System
 [ ] 341 Flattened Nested List Iterator
 [ ] 53 Maximum Subarray
 [ ] 1120 Maximum Average Subtree
 [ ] 547 Friend Circles
+[ ] Merge Two Binary Trees
+[ ] 215 Kth Largest Element in an Array
 
 
 Good string questions to attempt:
